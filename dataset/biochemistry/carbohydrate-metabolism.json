@@ -1,0 +1,54 @@
+{
+  "subject": "Biochemistry",
+  "chapter": "Carbohydrate Metabolism",
+  "questions": [
+    {
+      "questionId": "BIOCHEM-CARBOHYDRATE-001",
+      "questionText": "The rate-limiting enzyme of glycolysis in liver is:",
+      "optionA": "Hexokinase",
+      "optionB": "Phosphofructokinase-1",
+      "optionC": "Pyruvate kinase",
+      "optionD": "Glucokinase",
+      "correctAnswer": "B",
+      "explanation": "Phosphofructokinase-1 catalyzes fructose-6-phosphate to fructose-1,6-bisphosphate and is the committed, rate-limiting step of glycolysis. Hexokinase and glucokinase catalyze the first step but are not the main committed regulatory enzyme. Pyruvate kinase is another regulated step but not the principal rate-limiting step. A common trap is confusing the first step with the committed step.",
+      "difficulty": "EASY",
+      "conceptTag": "PFK1",
+      "subtopic": "Regulation of glycolysis",
+      "source": "Harper\u2019s Illustrated Biochemistry, Carbohydrate Metabolism",
+      "previousYear": true,
+      "tags": "Biochemistry,Carbohydrate Metabolism,Rate Limiting Step,High Yield"
+    },
+    {
+      "questionId": "BIOCHEM-CARBOHYDRATE-002",
+      "questionText": "A child with fasting hypoglycemia, hepatomegaly, and accumulation of glycogen with normal structure most likely has deficiency of:",
+      "optionA": "Glucose-6-phosphatase",
+      "optionB": "Debranching enzyme",
+      "optionC": "Liver glycogen phosphorylase",
+      "optionD": "Branching enzyme",
+      "correctAnswer": "C",
+      "explanation": "Hers disease is due to liver glycogen phosphorylase deficiency and leads to hepatomegaly and mild fasting hypoglycemia with relatively normal glycogen structure. Glucose-6-phosphatase deficiency causes Von Gierke disease with more severe lactic acidosis and hyperuricemia. Debranching enzyme deficiency causes Cori disease with abnormal glycogen. Branching enzyme deficiency causes Andersen disease with poorly branched glycogen and progressive cirrhosis.",
+      "difficulty": "HARD",
+      "conceptTag": "GlycogenStorageDisease",
+      "subtopic": "Glycogen metabolism",
+      "source": "Lippincott Illustrated Reviews: Biochemistry, Glycogen Metabolism",
+      "previousYear": false,
+      "tags": "Biochemistry,Carbohydrate Metabolism,GSD,Clinical Integration"
+    },
+    {
+      "questionId": "BIOCHEM-CARBOHYDRATE-003",
+      "questionText": "Which enzyme of gluconeogenesis requires biotin as a cofactor?",
+      "optionA": "Phosphoenolpyruvate carboxykinase",
+      "optionB": "Pyruvate carboxylase",
+      "optionC": "Fructose-1,6-bisphosphatase",
+      "optionD": "Glucose-6-phosphatase",
+      "correctAnswer": "B",
+      "explanation": "Pyruvate carboxylase converts pyruvate to oxaloacetate in mitochondria and requires biotin. PEPCK uses GTP, not biotin. Fructose-1,6-bisphosphatase and glucose-6-phosphatase do not use biotin. This is a classic cofactor-enzyme association question and a common source of confusion with other carboxylases.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "BiotinDependentCarboxylase",
+      "subtopic": "Gluconeogenesis",
+      "source": "Harper\u2019s Illustrated Biochemistry, Gluconeogenesis",
+      "previousYear": true,
+      "tags": "Biochemistry,Carbohydrate Metabolism,Cofactors,High Yield"
+    }
+  ]
+}

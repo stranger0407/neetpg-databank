@@ -1,0 +1,54 @@
+{
+  "subject": "Emergency Medicine",
+  "chapter": "Shock",
+  "questions": [
+    {
+      "questionId": "EMERGENCY-SHOCK-001",
+      "questionText": "The first priority in management of any shocked patient is:",
+      "optionA": "Definitive surgery",
+      "optionB": "Airway and breathing assessment with immediate support",
+      "optionC": "Broad-spectrum antibiotics in all cases",
+      "optionD": "Vasopressor infusion before IV access",
+      "correctAnswer": "B",
+      "explanation": "Initial shock management follows ABC principles, with airway and breathing assessment and support before definitive diagnosis-specific therapy. Surgery, antibiotics, and vasopressors may be needed later depending on etiology, but they do not precede stabilization.",
+      "difficulty": "EASY",
+      "conceptTag": "ShockABC",
+      "subtopic": "Initial resuscitation",
+      "source": "Standard Emergency/Critical Care Review, Shock",
+      "previousYear": false,
+      "tags": "Emergency Medicine,Shock,Resuscitation,High Yield"
+    },
+    {
+      "questionId": "EMERGENCY-SHOCK-002",
+      "questionText": "Warm peripheries, bounding pulse, and wide pulse pressure are most suggestive of early:",
+      "optionA": "Cardiogenic shock",
+      "optionB": "Hypovolemic shock",
+      "optionC": "Septic shock",
+      "optionD": "Obstructive shock",
+      "correctAnswer": "C",
+      "explanation": "Early septic shock is often distributive with warm peripheries, vasodilation, bounding pulse, and wide pulse pressure. Cardiogenic and hypovolemic shock more typically present with cool clammy skin and narrow pulse pressure. Obstructive shock depends on cause but is not the classic warm shock picture.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "WarmShock",
+      "subtopic": "Types of shock",
+      "source": "Standard Emergency Medicine Text, Shock",
+      "previousYear": true,
+      "tags": "Emergency Medicine,Shock,Clinical Diagnosis,Clinical Integration"
+    },
+    {
+      "questionId": "EMERGENCY-SHOCK-003",
+      "questionText": "A patient in anaphylactic shock who remains hypotensive after intramuscular adrenaline and fluids may next require:",
+      "optionA": "Immediate beta-blocker infusion",
+      "optionB": "Vasopressor support and airway escalation",
+      "optionC": "Only antihistamine tablets",
+      "optionD": "Observation without reassessment",
+      "correctAnswer": "B",
+      "explanation": "Refractory anaphylactic shock requires escalation with airway management, oxygen, repeated/infused adrenaline or vasopressor support, and close monitoring. Beta-blockers can worsen bronchospasm and blunt adrenergic response. Antihistamines alone are inadequate. Observation without escalation is unsafe.",
+      "difficulty": "HARD",
+      "conceptTag": "AnaphylacticShockEscalation",
+      "subtopic": "Shock emergencies",
+      "source": "Standard Critical Care Basics, Anaphylaxis",
+      "previousYear": false,
+      "tags": "Emergency Medicine,Shock,Anaphylaxis,Clinical Integration"
+    }
+  ]
+}

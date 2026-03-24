@@ -1,0 +1,119 @@
+{
+  "subjects_present": 20,
+  "subjects_expected": 20,
+  "subject_coverage_pct": 100.0,
+  "chapters_present": 37,
+  "chapters_expected": 170,
+  "chapter_coverage_pct": 21.8,
+  "questions_present": 111,
+  "average_questions_per_chapter": 3.0,
+  "difficulty_distribution_pct": {
+    "EASY": 31.5,
+    "HARD": 15.3,
+    "MEDIUM": 53.2
+  },
+  "question_type_signals_pct": {
+    "clinical_vignette": 23.4,
+    "direct_recall": 67.6,
+    "drug_response_or_interaction": 9.9,
+    "exception_based": 1.8,
+    "lab_or_image_interpretation": 9.9,
+    "mechanism_based": 4.5
+  },
+  "neet_pg_alignment_score_out_of_100": 60.6,
+  "rating": "developing",
+  "priority_missing_chapters": {
+    "General Medicine": [
+      "Dermatology Integration",
+      "Endocrinology",
+      "Gastroenterology",
+      "Hematology",
+      "Infectious Diseases",
+      "Nephrology",
+      "Neurology",
+      "Rheumatology"
+    ],
+    "General Surgery": [
+      "Breast",
+      "GIT Surgery",
+      "Hepatobiliary Surgery",
+      "Neurosurgery Basics",
+      "Oncosurgery Basics",
+      "Urology",
+      "Vascular Surgery",
+      "Wound Healing"
+    ],
+    "Obstetrics and Gynecology": [
+      "Antenatal Care",
+      "Contraception",
+      "Early Pregnancy",
+      "Gynecologic Oncology",
+      "Infertility",
+      "Menstrual Disorders",
+      "Postpartum Hemorrhage",
+      "Reproductive Endocrinology"
+    ],
+    "Pediatrics": [
+      "Gastrointestinal Disorders",
+      "Growth and Development",
+      "Hematology",
+      "Nephrology",
+      "Neurology",
+      "Nutrition",
+      "Pediatric Emergencies",
+      "Respiratory Disorders"
+    ],
+    "Pathology": [
+      "Cardiovascular Pathology",
+      "Cell Injury",
+      "Endocrine Pathology",
+      "GIT Pathology",
+      "Healing and Repair",
+      "Renal Pathology",
+      "Respiratory Pathology",
+      "Systemic Pathology"
+    ],
+    "Pharmacology": [
+      "Cardiovascular Pharmacology",
+      "Chemotherapy",
+      "Endocrine Pharmacology",
+      "General Pharmacology",
+      "NSAIDs",
+      "Toxicology"
+    ],
+    "Microbiology": [
+      "Hospital Infection Control",
+      "Mycology",
+      "Parasitology",
+      "Sterilization and Disinfection"
+    ],
+    "Anatomy": [
+      "Abdomen",
+      "Embryology",
+      "Histology",
+      "Lower Limb",
+      "Neuroanatomy",
+      "Pelvis and Perineum"
+    ],
+    "Physiology": [
+      "Blood",
+      "Cardiovascular System",
+      "Endocrinology",
+      "Gastrointestinal Physiology",
+      "General Physiology",
+      "Nerve-Muscle Physiology",
+      "Neurophysiology",
+      "Reproductive Physiology"
+    ],
+    "Community Medicine": [
+      "Concept of Health",
+      "Environmental Health",
+      "Epidemiology",
+      "Health Management",
+      "Infectious Disease Epidemiology",
+      "National Health Programs",
+      "Nutrition",
+      "Screening"
+    ]
+  }
+}

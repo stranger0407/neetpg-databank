@@ -1,0 +1,54 @@
+{
+  "subject": "Pharmacology",
+  "chapter": "Autonomic Pharmacology",
+  "questions": [
+    {
+      "questionId": "PHARMA-AUTONOMIC-001",
+      "questionText": "Which drug is most likely to precipitate acute angle-closure glaucoma by causing mydriasis?",
+      "optionA": "Pilocarpine",
+      "optionB": "Timolol",
+      "optionC": "Atropine",
+      "optionD": "Physostigmine",
+      "correctAnswer": "C",
+      "explanation": "Atropine is a muscarinic antagonist that causes mydriasis and cycloplegia, which can precipitate angle closure in predisposed patients. Pilocarpine and physostigmine increase cholinergic activity and tend to constrict the pupil. Timolol decreases aqueous humor production without causing mydriasis.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "AtropineGlaucoma",
+      "subtopic": "Muscarinic antagonists",
+      "source": "Katzung, Cholinergic Antagonists",
+      "previousYear": true,
+      "tags": "Pharmacology,Autonomic Pharmacology,Adverse Effects,Clinical Integration"
+    },
+    {
+      "questionId": "PHARMA-AUTONOMIC-002",
+      "questionText": "A patient on phenoxybenzamine for pheochromocytoma develops postural hypotension. The drug acts by:",
+      "optionA": "Reversible alpha-1 blockade",
+      "optionB": "Irreversible nonselective alpha blockade",
+      "optionC": "Selective beta-2 blockade",
+      "optionD": "Central alpha-2 agonism",
+      "correctAnswer": "B",
+      "explanation": "Phenoxybenzamine is an irreversible nonselective alpha blocker used preoperatively in pheochromocytoma. Its long action can produce postural hypotension and reflex tachycardia. Prazosin is reversible alpha-1 selective. Beta-2 blockade and alpha-2 agonism do not describe phenoxybenzamine.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "Phenoxybenzamine",
+      "subtopic": "Adrenergic antagonists",
+      "source": "Katzung, Adrenergic Antagonists",
+      "previousYear": true,
+      "tags": "Pharmacology,Autonomic Pharmacology,Pheochromocytoma,High Yield"
+    },
+    {
+      "questionId": "PHARMA-AUTONOMIC-003",
+      "questionText": "Which adrenergic agonist is preferred for anaphylactic shock because it counters bronchospasm, hypotension, and mucosal edema simultaneously?",
+      "optionA": "Dobutamine",
+      "optionB": "Norepinephrine",
+      "optionC": "Epinephrine",
+      "optionD": "Phenylephrine",
+      "correctAnswer": "C",
+      "explanation": "Epinephrine stimulates alpha and beta receptors, reversing hypotension through vasoconstriction, relieving bronchospasm via beta-2 action, and reducing mucosal edema. Dobutamine is mainly beta-1 selective. Norepinephrine has limited beta-2 activity. Phenylephrine is pure alpha agonist and will not treat bronchospasm effectively.",
+      "difficulty": "EASY",
+      "conceptTag": "EpinephrineAnaphylaxis",
+      "subtopic": "Adrenergic agonists",
+      "source": "Katzung, Sympathomimetics",
+      "previousYear": true,
+      "tags": "Pharmacology,Autonomic Pharmacology,Emergency,High Yield"
+    }
+  ]
+}

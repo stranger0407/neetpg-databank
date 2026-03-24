@@ -1,0 +1,54 @@
+{
+  "subject": "General Surgery",
+  "chapter": "Thyroid",
+  "questions": [
+    {
+      "questionId": "SURG-THYROID-001",
+      "questionText": "The most common thyroid malignancy is:",
+      "optionA": "Follicular carcinoma",
+      "optionB": "Papillary carcinoma",
+      "optionC": "Medullary carcinoma",
+      "optionD": "Anaplastic carcinoma",
+      "correctAnswer": "B",
+      "explanation": "Papillary carcinoma is the most common thyroid cancer and typically spreads via lymphatics. Follicular carcinoma more often spreads hematogenously. Medullary carcinoma arises from parafollicular C cells. Anaplastic carcinoma is highly aggressive but much less common.",
+      "difficulty": "EASY",
+      "conceptTag": "PapillaryCa",
+      "subtopic": "Thyroid neoplasia",
+      "source": "Bailey and Love, Thyroid Gland",
+      "previousYear": true,
+      "tags": "Surgery,Thyroid,Oncology,High Yield"
+    },
+    {
+      "questionId": "SURG-THYROID-002",
+      "questionText": "Injury to which nerve during thyroid surgery leads to inability to produce high-pitched sounds?",
+      "optionA": "External branch of superior laryngeal nerve",
+      "optionB": "Internal branch of superior laryngeal nerve",
+      "optionC": "Hypoglossal nerve",
+      "optionD": "Glossopharyngeal nerve",
+      "correctAnswer": "A",
+      "explanation": "The external branch of the superior laryngeal nerve supplies cricothyroid, which tenses the vocal cords and is important for high-pitched phonation. Internal branch is sensory above the vocal cords. Hypoglossal and glossopharyngeal nerves do not control pitch in this context.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "EBSLN",
+      "subtopic": "Applied thyroid surgery",
+      "source": "Bailey and Love, Thyroid Surgery",
+      "previousYear": true,
+      "tags": "Surgery,Thyroid,Applied Anatomy,Clinical Integration"
+    },
+    {
+      "questionId": "SURG-THYROID-003",
+      "questionText": "A solitary thyroid nodule with medullary carcinoma should prompt evaluation for which associated endocrine disorder?",
+      "optionA": "Primary hyperaldosteronism",
+      "optionB": "Pheochromocytoma",
+      "optionC": "Diabetes insipidus",
+      "optionD": "Acromegaly",
+      "correctAnswer": "B",
+      "explanation": "Medullary carcinoma may occur as part of MEN 2 syndromes, which are strongly associated with pheochromocytoma. Identifying pheochromocytoma before surgery is essential to avoid perioperative catastrophe. Primary hyperaldosteronism, diabetes insipidus, and acromegaly are not the classic association.",
+      "difficulty": "HARD",
+      "conceptTag": "MEN2",
+      "subtopic": "Endocrine surgery integration",
+      "source": "Schwartz\u2019s Principles of Surgery, Thyroid and Parathyroid",
+      "previousYear": true,
+      "tags": "Surgery,Thyroid,MEN Syndrome,Clinical Integration"
+    }
+  ]
+}

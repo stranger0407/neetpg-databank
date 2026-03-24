@@ -1,0 +1,54 @@
+{
+  "subject": "Anaesthesia",
+  "chapter": "General Anaesthesia",
+  "questions": [
+    {
+      "questionId": "ANES-GA-001",
+      "questionText": "The most reliable indicator of adequate ventilation during general anesthesia is:",
+      "optionA": "Pulse rate",
+      "optionB": "Blood pressure",
+      "optionC": "End-tidal CO2 monitoring",
+      "optionD": "Pupil size",
+      "correctAnswer": "C",
+      "explanation": "Capnography with end-tidal CO2 monitoring is the most reliable continuous indicator of ventilation during anesthesia. Pulse rate and blood pressure are indirect and nonspecific. Pupil size is not a dependable ventilation monitor.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "Capnography",
+      "subtopic": "Intraoperative monitoring",
+      "source": "Morgan and Mikhail, Monitoring",
+      "previousYear": true,
+      "tags": "Anaesthesia,General Anaesthesia,Monitoring,High Yield"
+    },
+    {
+      "questionId": "ANES-GA-002",
+      "questionText": "Malignant hyperthermia is most strongly associated with which anesthetic trigger?",
+      "optionA": "Propofol",
+      "optionB": "Succinylcholine",
+      "optionC": "Midazolam",
+      "optionD": "Etomidate",
+      "correctAnswer": "B",
+      "explanation": "Malignant hyperthermia is classically triggered by volatile anesthetics and succinylcholine in susceptible individuals due to abnormal skeletal muscle calcium handling. Propofol, midazolam, and etomidate are not typical triggers.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "MalignantHyperthermia",
+      "subtopic": "Anesthetic complications",
+      "source": "Morgan and Mikhail, Complications of Anesthesia",
+      "previousYear": true,
+      "tags": "Anaesthesia,General Anaesthesia,Complications,High Yield"
+    },
+    {
+      "questionId": "ANES-GA-003",
+      "questionText": "The specific antidote used in malignant hyperthermia is:",
+      "optionA": "Naloxone",
+      "optionB": "Atropine",
+      "optionC": "Dantrolene",
+      "optionD": "Neostigmine",
+      "correctAnswer": "C",
+      "explanation": "Dantrolene reduces calcium release from the sarcoplasmic reticulum and is the specific treatment for malignant hyperthermia. Naloxone reverses opioids, atropine treats bradycardia, and neostigmine reverses nondepolarizing neuromuscular blockade.",
+      "difficulty": "EASY",
+      "conceptTag": "Dantrolene",
+      "subtopic": "Management of malignant hyperthermia",
+      "source": "Morgan and Mikhail, Anesthetic Emergencies",
+      "previousYear": true,
+      "tags": "Anaesthesia,General Anaesthesia,Emergency,Exam Pattern"
+    }
+  ]
+}

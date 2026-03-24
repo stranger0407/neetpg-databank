@@ -1,0 +1,54 @@
+{
+  "subject": "Pathology",
+  "chapter": "Hematology",
+  "questions": [
+    {
+      "questionId": "PATHO-HEMATOLOGY-001",
+      "questionText": "Auer rods are most characteristically seen in:",
+      "optionA": "Acute lymphoblastic leukemia",
+      "optionB": "Acute myeloid leukemia",
+      "optionC": "Chronic lymphocytic leukemia",
+      "optionD": "Hairy cell leukemia",
+      "correctAnswer": "B",
+      "explanation": "Auer rods are needle-like azurophilic inclusions in myeloblasts and are characteristic of acute myeloid leukemia, especially acute promyelocytic leukemia. They are not seen in ALL, CLL, or hairy cell leukemia.",
+      "difficulty": "EASY",
+      "conceptTag": "AuerRods",
+      "subtopic": "Acute leukemia",
+      "source": "Robbins and Cotran, Hematopoietic Disorders",
+      "previousYear": true,
+      "tags": "Pathology,Hematology,Leukemia,High Yield"
+    },
+    {
+      "questionId": "PATHO-HEMATOLOGY-002",
+      "questionText": "Reed-Sternberg cells are the diagnostic hallmark of:",
+      "optionA": "Follicular lymphoma",
+      "optionB": "Multiple myeloma",
+      "optionC": "Hodgkin lymphoma",
+      "optionD": "Burkitt lymphoma",
+      "correctAnswer": "C",
+      "explanation": "Classic Reed-Sternberg cells are a hallmark of Hodgkin lymphoma. Follicular lymphoma shows neoplastic follicle center cells. Multiple myeloma features malignant plasma cells. Burkitt lymphoma shows a starry-sky pattern with high-grade B cells.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "ReedSternberg",
+      "subtopic": "Lymphoid neoplasms",
+      "source": "Robbins and Cotran, Lymphoma",
+      "previousYear": true,
+      "tags": "Pathology,Hematology,Lymphoma,High Yield"
+    },
+    {
+      "questionId": "PATHO-HEMATOLOGY-003",
+      "questionText": "A microangiopathic hemolytic anemia with schistocytes, thrombocytopenia, neurologic symptoms, renal dysfunction, and fever is most suggestive of:",
+      "optionA": "Hereditary spherocytosis",
+      "optionB": "Thrombotic thrombocytopenic purpura",
+      "optionC": "Autoimmune hemolytic anemia",
+      "optionD": "Aplastic anemia",
+      "correctAnswer": "B",
+      "explanation": "TTP classically presents with microangiopathic hemolytic anemia, thrombocytopenia, neurologic abnormalities, renal dysfunction, and fever due to ADAMTS13 deficiency. Hereditary spherocytosis shows spherocytes. Autoimmune hemolysis may show spherocytes but not the classic pentad. Aplastic anemia causes pancytopenia without schistocytes.",
+      "difficulty": "HARD",
+      "conceptTag": "TTP",
+      "subtopic": "Microangiopathic hemolysis",
+      "source": "Robbins and Cotran, Red Cell and Bleeding Disorders",
+      "previousYear": true,
+      "tags": "Pathology,Hematology,Clinical Integration,Lab Based"
+    }
+  ]
+}

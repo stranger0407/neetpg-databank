@@ -1,0 +1,54 @@
+{
+  "subject": "Biochemistry",
+  "chapter": "Lipid Metabolism",
+  "questions": [
+    {
+      "questionId": "BIOCHEM-LIPID-001",
+      "questionText": "The rate-limiting enzyme of cholesterol synthesis is:",
+      "optionA": "HMG-CoA synthase",
+      "optionB": "HMG-CoA reductase",
+      "optionC": "Acetyl-CoA carboxylase",
+      "optionD": "Hormone-sensitive lipase",
+      "correctAnswer": "B",
+      "explanation": "HMG-CoA reductase is the rate-limiting enzyme of cholesterol synthesis and the pharmacologic target of statins. HMG-CoA synthase is involved earlier and mitochondrial isoform is important in ketogenesis. Acetyl-CoA carboxylase is rate limiting for fatty acid synthesis. Hormone-sensitive lipase mobilizes stored triglyceride.",
+      "difficulty": "EASY",
+      "conceptTag": "HMGCoAReductase",
+      "subtopic": "Cholesterol biosynthesis",
+      "source": "Harper\u2019s Illustrated Biochemistry, Lipid Metabolism",
+      "previousYear": true,
+      "tags": "Biochemistry,Lipid Metabolism,Rate Limiting Step,High Yield"
+    },
+    {
+      "questionId": "BIOCHEM-LIPID-002",
+      "questionText": "Carnitine deficiency impairs transport of which molecule into mitochondria?",
+      "optionA": "Long-chain fatty acyl-CoA",
+      "optionB": "Malonyl-CoA",
+      "optionC": "Ketone bodies",
+      "optionD": "Acetyl-CoA from glycolysis",
+      "correctAnswer": "A",
+      "explanation": "Carnitine is required for transport of long-chain fatty acyl groups into mitochondria for beta-oxidation. Malonyl-CoA actually inhibits carnitine palmitoyltransferase I. Ketone bodies do not require carnitine transport. Acetyl-CoA from glycolysis enters indirectly via pyruvate metabolism, not by the carnitine shuttle.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "CarnitineShuttle",
+      "subtopic": "Beta oxidation",
+      "source": "Lippincott Illustrated Reviews: Biochemistry, Lipid Metabolism",
+      "previousYear": true,
+      "tags": "Biochemistry,Lipid Metabolism,Beta Oxidation,Clinical Integration"
+    },
+    {
+      "questionId": "BIOCHEM-LIPID-003",
+      "questionText": "Abetalipoproteinemia is characterized by deficiency of:",
+      "optionA": "Apolipoprotein A-I",
+      "optionB": "Apolipoprotein B",
+      "optionC": "Lecithin cholesterol acyltransferase",
+      "optionD": "Lipoprotein lipase",
+      "correctAnswer": "B",
+      "explanation": "Abetalipoproteinemia results from inability to form ApoB-containing lipoproteins, leading to fat malabsorption, acanthocytosis, and vitamin E deficiency. ApoA-I is the major HDL apoprotein. LCAT deficiency causes corneal clouding and hemolysis. Lipoprotein lipase deficiency causes hyperchylomicronemia.",
+      "difficulty": "HARD",
+      "conceptTag": "ApoB",
+      "subtopic": "Lipoprotein disorders",
+      "source": "Harper\u2019s Illustrated Biochemistry, Lipoprotein Metabolism",
+      "previousYear": false,
+      "tags": "Biochemistry,Lipid Metabolism,Lipoproteins,Exam Pattern"
+    }
+  ]
+}

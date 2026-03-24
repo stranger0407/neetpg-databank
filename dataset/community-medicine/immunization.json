@@ -1,0 +1,54 @@
+{
+  "subject": "Community Medicine",
+  "chapter": "Immunization",
+  "questions": [
+    {
+      "questionId": "PSM-IMMUNIZATION-001",
+      "questionText": "Which vaccine is contraindicated in pregnancy as a live vaccine?",
+      "optionA": "Tetanus toxoid",
+      "optionB": "Inactivated influenza vaccine",
+      "optionC": "MMR vaccine",
+      "optionD": "Hepatitis B vaccine",
+      "correctAnswer": "C",
+      "explanation": "MMR is a live attenuated vaccine and is contraindicated during pregnancy. Tetanus toxoid, inactivated influenza, and hepatitis B vaccines are non-live and may be used when indicated. This is a standard PSM-immunization distinction.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "LiveVaccinePregnancy",
+      "subtopic": "Special situations in immunization",
+      "source": "Park, Epidemiology and Vaccines",
+      "previousYear": true,
+      "tags": "Community Medicine,Immunization,Vaccines,High Yield"
+    },
+    {
+      "questionId": "PSM-IMMUNIZATION-002",
+      "questionText": "The cold chain equipment used to keep vaccines cold during outreach sessions is:",
+      "optionA": "Deep freezer",
+      "optionB": "Vaccine carrier",
+      "optionC": "Walk-in cooler",
+      "optionD": "Ice-lined refrigerator",
+      "correctAnswer": "B",
+      "explanation": "A vaccine carrier is used for transporting vaccines during outreach sessions while maintaining cold chain. Deep freezers and ice-lined refrigerators are fixed storage equipment. Walk-in coolers are higher-capacity central storage facilities.",
+      "difficulty": "EASY",
+      "conceptTag": "VaccineCarrier",
+      "subtopic": "Cold chain",
+      "source": "Park, National Immunization Programme",
+      "previousYear": true,
+      "tags": "Community Medicine,Immunization,Cold Chain,Exam Pattern"
+    },
+    {
+      "questionId": "PSM-IMMUNIZATION-003",
+      "questionText": "Pulse Polio programme is an example of:",
+      "optionA": "Primordial prevention",
+      "optionB": "Mass campaign supplementary immunization activity",
+      "optionC": "Selective chemoprophylaxis",
+      "optionD": "Secondary prevention",
+      "correctAnswer": "B",
+      "explanation": "Pulse Polio consists of supplementary immunization activities delivered as mass campaigns to rapidly increase population immunity and interrupt transmission. It is not primordial prevention, chemoprophylaxis, or secondary prevention. This is a common public health programme question.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "PulsePolio",
+      "subtopic": "National immunization programme",
+      "source": "Park, National Health Programmes",
+      "previousYear": true,
+      "tags": "Community Medicine,Immunization,National Programs,Clinical Integration"
+    }
+  ]
+}

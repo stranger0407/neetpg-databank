@@ -1,0 +1,54 @@
+{
+  "subject": "Pediatrics",
+  "chapter": "Neonatology",
+  "questions": [
+    {
+      "questionId": "PEDS-NEONATOLOGY-001",
+      "questionText": "The most important immediate step in neonatal resuscitation of a term baby who is apneic at birth is:",
+      "optionA": "Chest compressions immediately",
+      "optionB": "Positive pressure ventilation after initial steps",
+      "optionC": "Endotracheal surfactant before ventilation",
+      "optionD": "Intravenous adrenaline as first step",
+      "correctAnswer": "B",
+      "explanation": "After providing warmth, positioning the airway, drying, and stimulation, an apneic newborn requires positive pressure ventilation. Chest compressions are indicated only if the heart rate remains low despite adequate ventilation. Surfactant and adrenaline are not first-line immediate steps in routine initial resuscitation.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "NeonatalPPV",
+      "subtopic": "Neonatal resuscitation",
+      "source": "Ghai Essential Pediatrics, Neonatology",
+      "previousYear": true,
+      "tags": "Pediatrics,Neonatology,Resuscitation,High Yield"
+    },
+    {
+      "questionId": "PEDS-NEONATOLOGY-002",
+      "questionText": "A preterm neonate with respiratory distress syndrome has deficiency of:",
+      "optionA": "Sphingomyelin",
+      "optionB": "Dipalmitoyl phosphatidylcholine",
+      "optionC": "Phosphatidylserine",
+      "optionD": "Cardiolipin",
+      "correctAnswer": "B",
+      "explanation": "Neonatal respiratory distress syndrome is caused by deficiency of surfactant, particularly dipalmitoyl phosphatidylcholine produced by type II pneumocytes. Sphingomyelin is used in the lecithin:sphingomyelin ratio assessment but is not the deficient functional molecule. Phosphatidylserine and cardiolipin are unrelated here.",
+      "difficulty": "EASY",
+      "conceptTag": "NeonatalRDS",
+      "subtopic": "Preterm lung disease",
+      "source": "Nelson Textbook of Pediatrics, Respiratory Disorders of the Newborn",
+      "previousYear": true,
+      "tags": "Pediatrics,Neonatology,RDS,High Yield"
+    },
+    {
+      "questionId": "PEDS-NEONATOLOGY-003",
+      "questionText": "Which finding most strongly suggests pathological neonatal jaundice rather than physiological jaundice?",
+      "optionA": "Onset after 48 hours",
+      "optionB": "Peak bilirubin on day 4 in term infant",
+      "optionC": "Jaundice within first 24 hours of life",
+      "optionD": "Resolution by 7 days in term infant",
+      "correctAnswer": "C",
+      "explanation": "Jaundice appearing within the first 24 hours is pathological until proved otherwise and suggests hemolysis, infection, or other disease. Physiological jaundice typically appears after 24 hours, peaks later, and resolves within about a week in term infants. This timing distinction is a common exam favorite.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "PathologicalJaundice",
+      "subtopic": "Neonatal hyperbilirubinemia",
+      "source": "Ghai Essential Pediatrics, Newborn Jaundice",
+      "previousYear": true,
+      "tags": "Pediatrics,Neonatology,Jaundice,Clinical Integration"
+    }
+  ]
+}

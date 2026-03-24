@@ -1,0 +1,54 @@
+{
+  "subject": "Orthopedics",
+  "chapter": "Fractures",
+  "questions": [
+    {
+      "questionId": "ORTHO-FRACTURES-001",
+      "questionText": "The most common site of fracture neck of femur in elderly after trivial fall is:",
+      "optionA": "Subcapital region",
+      "optionB": "Intertrochanteric region",
+      "optionC": "Shaft",
+      "optionD": "Greater trochanter",
+      "correctAnswer": "A",
+      "explanation": "Subcapital fracture is a common intracapsular neck of femur fracture in elderly osteoporotic patients and is clinically important because of risk to retinacular blood supply and avascular necrosis. Intertrochanteric fractures are also common but are extracapsular and a different entity. Shaft and greater trochanter fractures are less typical after trivial falls.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "NOFSubcapital",
+      "subtopic": "Hip fractures",
+      "source": "Apley\u2019s System of Orthopaedics and Fractures, Hip",
+      "previousYear": true,
+      "tags": "Orthopedics,Fractures,Hip,High Yield"
+    },
+    {
+      "questionId": "ORTHO-FRACTURES-002",
+      "questionText": "The earliest and most serious complication of fracture shaft of femur in a polytrauma patient is:",
+      "optionA": "Malunion",
+      "optionB": "Fat embolism syndrome",
+      "optionC": "Avascular necrosis",
+      "optionD": "Volkmann ischemic contracture",
+      "correctAnswer": "B",
+      "explanation": "Fat embolism syndrome is an important early systemic complication of long bone fractures such as femoral shaft fracture, especially in polytrauma. Malunion is a later complication. Avascular necrosis is more typical of neck of femur. Volkmann contracture is linked to compartment syndrome in forearm injuries.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "FatEmbolism",
+      "subtopic": "Complications of fractures",
+      "source": "Maheshwari Orthopedics, Trauma",
+      "previousYear": true,
+      "tags": "Orthopedics,Fractures,Complications,Clinical Integration"
+    },
+    {
+      "questionId": "ORTHO-FRACTURES-003",
+      "questionText": "A fracture with skin breach communicating with the fracture hematoma is termed:",
+      "optionA": "Complicated fracture",
+      "optionB": "Open fracture",
+      "optionC": "Pathological fracture",
+      "optionD": "Impacted fracture",
+      "correctAnswer": "B",
+      "explanation": "An open or compound fracture communicates with the external environment through a skin wound, increasing infection risk and changing management priorities. Complicated fracture implies associated vascular or nerve injury. Pathological fracture occurs through diseased bone. Impacted fracture involves one fragment driven into another.",
+      "difficulty": "EASY",
+      "conceptTag": "OpenFracture",
+      "subtopic": "Definitions in trauma",
+      "source": "Apley, Fracture Classification",
+      "previousYear": true,
+      "tags": "Orthopedics,Fractures,Definitions,High Yield"
+    }
+  ]
+}

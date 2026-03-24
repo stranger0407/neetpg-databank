@@ -1,0 +1,54 @@
+{
+  "subject": "Obstetrics and Gynecology",
+  "chapter": "Hypertensive Disorders of Pregnancy",
+  "questions": [
+    {
+      "questionId": "OBG-HDP-001",
+      "questionText": "Magnesium sulfate in eclampsia is primarily used to:",
+      "optionA": "Control blood pressure",
+      "optionB": "Prevent and treat seizures",
+      "optionC": "Induce labor",
+      "optionD": "Improve placental perfusion by vasodilation alone",
+      "correctAnswer": "B",
+      "explanation": "Magnesium sulfate is the drug of choice for prevention and treatment of eclamptic seizures. It is not the primary antihypertensive agent. It does not induce labor. Although it has vascular effects, its key clinical role is anticonvulsant prophylaxis and treatment.",
+      "difficulty": "EASY",
+      "conceptTag": "MgSO4Eclampsia",
+      "subtopic": "Eclampsia management",
+      "source": "Dutta, Hypertensive Disorders in Pregnancy",
+      "previousYear": true,
+      "tags": "OBG,Hypertensive Disorders of Pregnancy,Emergency,High Yield"
+    },
+    {
+      "questionId": "OBG-HDP-002",
+      "questionText": "A pregnant woman at 34 weeks has hypertension, proteinuria, headache, and visual symptoms. The definitive treatment is:",
+      "optionA": "Strict bed rest only",
+      "optionB": "Methyldopa until term",
+      "optionC": "Delivery after stabilization",
+      "optionD": "Loop diuretics for one week",
+      "correctAnswer": "C",
+      "explanation": "In severe preeclampsia with warning symptoms, definitive treatment is delivery after maternal stabilization, balancing maternal and fetal status. Bed rest and methyldopa alone are not definitive. Diuretics are not routine primary therapy unless specific indications exist such as pulmonary edema.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "DefinitivePreeclampsiaTx",
+      "subtopic": "Severe preeclampsia",
+      "source": "Dutta, Pregnancy Complications",
+      "previousYear": true,
+      "tags": "OBG,Hypertensive Disorders of Pregnancy,Management,Clinical Integration"
+    },
+    {
+      "questionId": "OBG-HDP-003",
+      "questionText": "HELLP syndrome is characterized by all except:",
+      "optionA": "Hemolysis",
+      "optionB": "Elevated liver enzymes",
+      "optionC": "Low platelet count",
+      "optionD": "Marked hypercalcemia",
+      "correctAnswer": "D",
+      "explanation": "HELLP stands for hemolysis, elevated liver enzymes, and low platelets. Hypercalcemia is not part of the syndrome. Recognizing HELLP is crucial because it indicates severe disease with high maternal-fetal risk.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "HELLP",
+      "subtopic": "Complications of preeclampsia",
+      "source": "Jeffcoate\u2019s Principles of Gynaecology and Obstetrics, Medical Disorders in Pregnancy",
+      "previousYear": true,
+      "tags": "OBG,Hypertensive Disorders of Pregnancy,Complications,Exam Pattern"
+    }
+  ]
+}

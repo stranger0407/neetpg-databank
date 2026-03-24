@@ -1,0 +1,190 @@
+{
+  "Anatomy": [
+    {
+      "chapter": "Upper Limb",
+      "file": "dataset/anatomy/upper-limb.json"
+    },
+    {
+      "chapter": "Thorax",
+      "file": "dataset/anatomy/thorax.json"
+    },
+    {
+      "chapter": "Head and Neck",
+      "file": "dataset/anatomy/head-and-neck.json"
+    }
+  ],
+  "Physiology": [
+    {
+      "chapter": "Cardiac Cycle",
+      "file": "dataset/physiology/cardiac-cycle.json"
+    },
+    {
+      "chapter": "Respiration",
+      "file": "dataset/physiology/respiration.json"
+    },
+    {
+      "chapter": "Renal Physiology",
+      "file": "dataset/physiology/renal-physiology.json"
+    }
+  ],
+  "Biochemistry": [
+    {
+      "chapter": "Carbohydrate Metabolism",
+      "file": "dataset/biochemistry/carbohydrate-metabolism.json"
+    },
+    {
+      "chapter": "Molecular Biology",
+      "file": "dataset/biochemistry/molecular-biology.json"
+    },
+    {
+      "chapter": "Lipid Metabolism",
+      "file": "dataset/biochemistry/lipid-metabolism.json"
+    }
+  ],
+  "Pathology": [
+    {
+      "chapter": "Inflammation",
+      "file": "dataset/pathology/inflammation.json"
+    },
+    {
+      "chapter": "Hemodynamics",
+      "file": "dataset/pathology/hemodynamics.json"
+    },
+    {
+      "chapter": "Hematology",
+      "file": "dataset/pathology/hematology.json"
+    }
+  ],
+  "Pharmacology": [
+    {
+      "chapter": "Autonomic Pharmacology",
+      "file": "dataset/pharmacology/autonomic-pharmacology.json"
+    },
+    {
+      "chapter": "Antimicrobials",
+      "file": "dataset/pharmacology/antimicrobials.json"
+    },
+    {
+      "chapter": "CNS Pharmacology",
+      "file": "dataset/pharmacology/cns-pharmacology.json"
+    }
+  ],
+  "Microbiology": [
+    {
+      "chapter": "Bacteriology",
+      "file": "dataset/microbiology/bacteriology.json"
+    },
+    {
+      "chapter": "Virology",
+      "file": "dataset/microbiology/virology.json"
+    },
+    {
+      "chapter": "Immunology",
+      "file": "dataset/microbiology/immunology.json"
+    }
+  ],
+  "Forensic Medicine": [
+    {
+      "chapter": "Injuries",
+      "file": "dataset/forensic-medicine/injuries.json"
+    }
+  ],
+  "Community Medicine": [
+    {
+      "chapter": "Biostatistics",
+      "file": "dataset/community-medicine/biostatistics.json"
+    },
+    {
+      "chapter": "Immunization",
+      "file": "dataset/community-medicine/immunization.json"
+    }
+  ],
+  "General Medicine": [
+    {
+      "chapter": "Cardiology",
+      "file": "dataset/general-medicine/cardiology.json"
+    },
+    {
+      "chapter": "Respiratory Medicine",
+      "file": "dataset/general-medicine/respiratory-medicine.json"
+    }
+  ],
+  "General Surgery": [
+    {
+      "chapter": "Thyroid",
+      "file": "dataset/general-surgery/thyroid.json"
+    },
+    {
+      "chapter": "Shock and Trauma",
+      "file": "dataset/general-surgery/shock-and-trauma.json"
+    }
+  ],
+  "Obstetrics and Gynecology": [
+    {
+      "chapter": "Hypertensive Disorders of Pregnancy",
+      "file": "dataset/obstetrics-and-gynecology/hypertensive-disorders-of-pregnancy.json"
+    },
+    {
+      "chapter": "Labor",
+      "file": "dataset/obstetrics-and-gynecology/labor.json"
+    }
+  ],
+  "Pediatrics": [
+    {
+      "chapter": "Neonatology",
+      "file": "dataset/pediatrics/neonatology.json"
+    },
+    {
+      "chapter": "Immunization",
+      "file": "dataset/pediatrics/immunization.json"
+    }
+  ],
+  "Orthopedics": [
+    {
+      "chapter": "Fractures",
+      "file": "dataset/orthopedics/fractures.json"
+    }
+  ],
+  "Ophthalmology": [
+    {
+      "chapter": "Glaucoma",
+      "file": "dataset/ophthalmology/glaucoma.json"
+    }
+  ],
+  "ENT": [
+    {
+      "chapter": "Otology",
+      "file": "dataset/ent/otology.json"
+    }
+  ],
+  "Dermatology": [
+    {
+      "chapter": "Leprosy",
+      "file": "dataset/dermatology/leprosy.json"
+    }
+  ],
+  "Psychiatry": [
+    {
+      "chapter": "Mood Disorders",
+      "file": "dataset/psychiatry/mood-disorders.json"
+    }
+  ],
+  "Anaesthesia": [
+    {
+      "chapter": "General Anaesthesia",
+      "file": "dataset/anaesthesia/general-anaesthesia.json"
+    }
+  ],
+  "Radiology": [
+    {
+      "chapter": "Chest Imaging",
+      "file": "dataset/radiology/chest-imaging.json"
+    }
+  ],
+  "Emergency Medicine": [
+    {
+      "chapter": "Shock",
+      "file": "dataset/emergency-medicine/shock.json"
+    }
+  ]
+}

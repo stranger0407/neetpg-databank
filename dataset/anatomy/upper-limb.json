@@ -1,0 +1,54 @@
+{
+  "subject": "Anatomy",
+  "chapter": "Upper Limb",
+  "questions": [
+    {
+      "questionId": "ANATOMY-UPPERLIMB-001",
+      "questionText": "A mid-shaft fracture of the humerus is most likely to produce which motor deficit?",
+      "optionA": "Loss of forearm supination due to musculocutaneous nerve injury",
+      "optionB": "Wrist drop due to radial nerve injury in the spiral groove",
+      "optionC": "Claw hand due to ulnar nerve injury at the elbow",
+      "optionD": "Loss of thumb opposition due to median nerve injury in the carpal tunnel",
+      "correctAnswer": "B",
+      "explanation": "The radial nerve runs in the spiral groove with the profunda brachii artery and is classically injured in mid-shaft humeral fractures, producing weakness of wrist and finger extensors with wrist drop. Musculocutaneous nerve injury causes weak elbow flexion and supination but is not the typical nerve at risk here. Ulnar nerve injury is more typical at the medial epicondyle. Median nerve compression in the carpal tunnel affects thenar function, not the classic deficit after a humeral shaft fracture.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "RadialNerveSpiralGroove",
+      "subtopic": "Applied anatomy of humerus and radial nerve",
+      "source": "BD Chaurasia, Upper Limb",
+      "previousYear": true,
+      "tags": "Anatomy,Upper Limb,High Yield,Applied Anatomy"
+    },
+    {
+      "questionId": "ANATOMY-UPPERLIMB-002",
+      "questionText": "The axillary nerve is most vulnerable in a fracture involving which part of the humerus?",
+      "optionA": "Anatomical neck",
+      "optionB": "Surgical neck",
+      "optionC": "Greater tubercle",
+      "optionD": "Medial epicondyle",
+      "correctAnswer": "B",
+      "explanation": "The axillary nerve winds around the surgical neck of the humerus with the posterior circumflex humeral vessels, so fractures here endanger deltoid function and sensation over the regimental badge area. The anatomical neck is less commonly fractured. Greater tubercle fractures mainly affect rotator cuff insertions. Medial epicondyle injuries endanger the ulnar nerve.",
+      "difficulty": "EASY",
+      "conceptTag": "AxillaryNerveInjury",
+      "subtopic": "Shoulder region",
+      "source": "Snell Clinical Anatomy, Upper Limb",
+      "previousYear": true,
+      "tags": "Anatomy,Upper Limb,High Yield,Clinical Correlation"
+    },
+    {
+      "questionId": "ANATOMY-UPPERLIMB-003",
+      "questionText": "A patient cannot initiate abduction of the arm for the first 15 degrees after a supraspinatus tendon tear. Which nerve supplies the affected muscle?",
+      "optionA": "Upper subscapular nerve",
+      "optionB": "Axillary nerve",
+      "optionC": "Suprascapular nerve",
+      "optionD": "Dorsal scapular nerve",
+      "correctAnswer": "C",
+      "explanation": "Supraspinatus initiates the first 15 degrees of abduction and is supplied by the suprascapular nerve. The axillary nerve supplies deltoid, which continues abduction beyond 15 degrees. Upper subscapular nerve supplies subscapularis. Dorsal scapular nerve supplies levator scapulae and rhomboids. The exam trap is confusing deltoid, which is the main abductor, with supraspinatus, which starts the movement.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "SupraspinatusInnervation",
+      "subtopic": "Rotator cuff",
+      "source": "Clinically Oriented Anatomy, Shoulder Region",
+      "previousYear": false,
+      "tags": "Anatomy,Upper Limb,Rotator Cuff,Clinical Integration"
+    }
+  ]
+}

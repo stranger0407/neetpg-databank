@@ -1,0 +1,54 @@
+{
+  "subject": "Pharmacology",
+  "chapter": "CNS Pharmacology",
+  "questions": [
+    {
+      "questionId": "PHARMA-CNS-001",
+      "questionText": "Extrapyramidal adverse effects due to D2 blockade are most likely with:",
+      "optionA": "Haloperidol",
+      "optionB": "Clozapine",
+      "optionC": "Buspirone",
+      "optionD": "Fluoxetine",
+      "correctAnswer": "A",
+      "explanation": "Haloperidol is a high-potency typical antipsychotic with strong D2 antagonism and a high risk of extrapyramidal symptoms. Clozapine has relatively low EPS risk. Buspirone is a 5-HT1A partial agonist anxiolytic. Fluoxetine is an SSRI.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "EPSHaloperidol",
+      "subtopic": "Antipsychotics",
+      "source": "Katzung, Antipsychotic Agents",
+      "previousYear": true,
+      "tags": "Pharmacology,CNS Pharmacology,Adverse Effects,High Yield"
+    },
+    {
+      "questionId": "PHARMA-CNS-002",
+      "questionText": "Naloxone reverses respiratory depression caused by:",
+      "optionA": "Benzodiazepines",
+      "optionB": "Barbiturates",
+      "optionC": "Opioids",
+      "optionD": "Ethanol",
+      "correctAnswer": "C",
+      "explanation": "Naloxone is a competitive opioid receptor antagonist used to reverse opioid-induced respiratory depression. Flumazenil reverses benzodiazepines. There is no specific antidote routinely used for barbiturate or ethanol intoxication comparable to naloxone.",
+      "difficulty": "EASY",
+      "conceptTag": "Naloxone",
+      "subtopic": "Opioid pharmacology",
+      "source": "Tripathi, CNS Pharmacology",
+      "previousYear": true,
+      "tags": "Pharmacology,CNS Pharmacology,Antidotes,Exam Pattern"
+    },
+    {
+      "questionId": "PHARMA-CNS-003",
+      "questionText": "Serotonin syndrome is most likely after combining linezolid with:",
+      "optionA": "Haloperidol",
+      "optionB": "Lithium",
+      "optionC": "Sertraline",
+      "optionD": "Valproate",
+      "correctAnswer": "C",
+      "explanation": "Linezolid has MAOI activity and can precipitate serotonin syndrome when combined with serotonergic agents such as SSRIs like sertraline. Haloperidol is not strongly serotonergic in this interaction sense. Lithium has different toxicity patterns. Valproate does not classically precipitate serotonin syndrome with linezolid.",
+      "difficulty": "HARD",
+      "conceptTag": "SerotoninSyndrome",
+      "subtopic": "Drug interactions in psychopharmacology",
+      "source": "Katzung, Antidepressant Agents",
+      "previousYear": false,
+      "tags": "Pharmacology,CNS Pharmacology,Drug Interaction,Clinical Integration"
+    }
+  ]
+}

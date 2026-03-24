@@ -1,0 +1,54 @@
+{
+  "subject": "Physiology",
+  "chapter": "Cardiac Cycle",
+  "questions": [
+    {
+      "questionId": "PHYSIOLOGY-CARDIACCYCLE-001",
+      "questionText": "The dicrotic notch in the aortic pressure curve corresponds to:",
+      "optionA": "Opening of the aortic valve",
+      "optionB": "Closure of the mitral valve",
+      "optionC": "Closure of the aortic valve",
+      "optionD": "Rapid ventricular filling",
+      "correctAnswer": "C",
+      "explanation": "The dicrotic notch or incisura appears due to brief backflow of blood and elastic recoil immediately after closure of the aortic valve. Opening of the aortic valve marks the start of ejection, not the notch. Mitral closure contributes to S1. Rapid filling occurs in early diastole after isovolumetric relaxation. This is a standard graph-based physiology concept.",
+      "difficulty": "EASY",
+      "conceptTag": "DicroticNotch",
+      "subtopic": "Pressure curves",
+      "source": "Guyton and Hall, Cardiac Physiology",
+      "previousYear": true,
+      "tags": "Physiology,Cardiac Cycle,Graphs,High Yield"
+    },
+    {
+      "questionId": "PHYSIOLOGY-CARDIACCYCLE-002",
+      "questionText": "A loud S3 in an adult is most closely related to which event?",
+      "optionA": "Atrial contraction against a stiff ventricle",
+      "optionB": "Rapid passive ventricular filling",
+      "optionC": "Semilunar valve closure",
+      "optionD": "Isovolumetric contraction",
+      "correctAnswer": "B",
+      "explanation": "S3 occurs during rapid passive ventricular filling and in adults often suggests volume overload or ventricular dysfunction. Atrial contraction against a stiff ventricle produces S4. Semilunar valve closure produces S2. Isovolumetric contraction occurs after AV valve closure and relates to S1 timing, not S3.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "ThirdHeartSound",
+      "subtopic": "Heart sounds",
+      "source": "Ganong\u2019s Review of Medical Physiology, Cardiovascular System",
+      "previousYear": true,
+      "tags": "Physiology,Cardiac Cycle,Heart Sounds,Clinical Correlation"
+    },
+    {
+      "questionId": "PHYSIOLOGY-CARDIACCYCLE-003",
+      "questionText": "During which phase of the cardiac cycle are all four valves closed?",
+      "optionA": "Rapid ejection and isovolumetric relaxation",
+      "optionB": "Isovolumetric contraction and isovolumetric relaxation",
+      "optionC": "Rapid filling and reduced filling",
+      "optionD": "Atrial systole and rapid ejection",
+      "correctAnswer": "B",
+      "explanation": "All four valves are closed during the two isovolumetric phases: contraction and relaxation. During rapid ejection, semilunar valves are open. During filling phases, AV valves are open. During atrial systole, AV valves remain open. The trap is remembering only isovolumetric contraction and forgetting isovolumetric relaxation.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "IsovolumetricPhases",
+      "subtopic": "Valve events in cardiac cycle",
+      "source": "Guyton and Hall, Cardiac Cycle",
+      "previousYear": false,
+      "tags": "Physiology,Cardiac Cycle,Mechanism,Exam Pattern"
+    }
+  ]
+}

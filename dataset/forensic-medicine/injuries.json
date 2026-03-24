@@ -1,0 +1,54 @@
+{
+  "subject": "Forensic Medicine",
+  "chapter": "Injuries",
+  "questions": [
+    {
+      "questionId": "FMT-INJURIES-001",
+      "questionText": "An abrasion produced by movement of the body against a rough surface is called:",
+      "optionA": "Pressure abrasion",
+      "optionB": "Impact abrasion",
+      "optionC": "Graze abrasion",
+      "optionD": "Patterned abrasion",
+      "correctAnswer": "C",
+      "explanation": "Graze or brush abrasion occurs when the skin is rubbed against a rough surface tangentially, causing a scraped area that may indicate direction of force. Pressure abrasion is due to perpendicular compression. Impact abrasion follows a forceful blow. Patterned abrasions reproduce the object design.",
+      "difficulty": "EASY",
+      "conceptTag": "GrazeAbrasion",
+      "subtopic": "Mechanical injuries",
+      "source": "Reddy, Mechanical Injuries",
+      "previousYear": true,
+      "tags": "Forensic Medicine,Injuries,Definitions,High Yield"
+    },
+    {
+      "questionId": "FMT-INJURIES-002",
+      "questionText": "The most characteristic feature of an entry wound caused by a firearm is:",
+      "optionA": "Everted margins",
+      "optionB": "Inverted margins",
+      "optionC": "Tailing due to movement",
+      "optionD": "Split laceration with tissue bridges",
+      "correctAnswer": "B",
+      "explanation": "Typical firearm entry wounds have inverted margins because the projectile pushes skin inward. Exit wounds more often have everted margins. Tailing is more relevant in abrasions. Split lacerations with tissue bridges are blunt force injuries rather than firearm wounds.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "EntryWound",
+      "subtopic": "Firearm injuries",
+      "source": "Parikh, Firearm Injuries",
+      "previousYear": true,
+      "tags": "Forensic Medicine,Injuries,Firearm,Exam Pattern"
+    },
+    {
+      "questionId": "FMT-INJURIES-003",
+      "questionText": "A bruise over the mastoid region seen in basal skull fracture is called:",
+      "optionA": "Battle sign",
+      "optionB": "Raccoon eyes",
+      "optionC": "Cullen sign",
+      "optionD": "Grey Turner sign",
+      "correctAnswer": "A",
+      "explanation": "Battle sign is postauricular ecchymosis associated with fracture of the base of skull, especially middle cranial fossa. Raccoon eyes are periorbital ecchymosis. Cullen sign is periumbilical ecchymosis. Grey Turner sign is flank ecchymosis, commonly in hemorrhagic pancreatitis.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "BattleSign",
+      "subtopic": "Head injury correlation",
+      "source": "Reddy, Head Injuries",
+      "previousYear": true,
+      "tags": "Forensic Medicine,Injuries,Head Trauma,Clinical Integration"
+    }
+  ]
+}

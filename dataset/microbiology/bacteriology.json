@@ -1,0 +1,54 @@
+{
+  "subject": "Microbiology",
+  "chapter": "Bacteriology",
+  "questions": [
+    {
+      "questionId": "MICRO-BACTERIOLOGY-001",
+      "questionText": "Which virulence factor of Streptococcus pyogenes is most strongly associated with resistance to phagocytosis?",
+      "optionA": "Streptolysin O",
+      "optionB": "M protein",
+      "optionC": "Erythrogenic toxin",
+      "optionD": "Hyaluronidase",
+      "correctAnswer": "B",
+      "explanation": "M protein is the major antiphagocytic virulence factor of Streptococcus pyogenes and is also linked to rheumatogenic strains. Streptolysin O is a hemolysin. Erythrogenic toxin mediates scarlet fever rash. Hyaluronidase aids spread but is not the main antiphagocytic factor.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "Mprotein",
+      "subtopic": "Streptococcal virulence",
+      "source": "Ananthanarayan and Paniker, Streptococci",
+      "previousYear": true,
+      "tags": "Microbiology,Bacteriology,Virulence Factors,High Yield"
+    },
+    {
+      "questionId": "MICRO-BACTERIOLOGY-002",
+      "questionText": "A lactose fermenting, indole positive, motile gram-negative bacillus causing UTI is most likely:",
+      "optionA": "Klebsiella pneumoniae",
+      "optionB": "Escherichia coli",
+      "optionC": "Proteus mirabilis",
+      "optionD": "Pseudomonas aeruginosa",
+      "correctAnswer": "B",
+      "explanation": "E. coli is a lactose fermenting, indole-positive, motile gram-negative bacillus and the most common cause of community-acquired UTI. Klebsiella is lactose fermenting but non-motile and urease positive. Proteus is non-lactose fermenting and urease positive. Pseudomonas is non-lactose fermenting and oxidase positive.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "EcoliUTI",
+      "subtopic": "Enterobacteriaceae identification",
+      "source": "Jawetz, Enteric Gram-negative Bacilli",
+      "previousYear": true,
+      "tags": "Microbiology,Bacteriology,Lab Diagnosis,Clinical Integration"
+    },
+    {
+      "questionId": "MICRO-BACTERIOLOGY-003",
+      "questionText": "Black colonies on Wilson and Blair medium are characteristic of:",
+      "optionA": "Shigella dysenteriae",
+      "optionB": "Salmonella Typhi",
+      "optionC": "Vibrio cholerae",
+      "optionD": "Yersinia enterocolitica",
+      "correctAnswer": "B",
+      "explanation": "Salmonella Typhi produces hydrogen sulfide and forms black colonies on bismuth sulfite (Wilson and Blair) medium. Shigella does not produce H2S. Vibrio cholerae grows on TCBS medium. Yersinia has different culture characteristics. This is a classic culture-media association.",
+      "difficulty": "HARD",
+      "conceptTag": "WilsonBlair",
+      "subtopic": "Culture media",
+      "source": "Ananthanarayan and Paniker, Enteric Fever",
+      "previousYear": true,
+      "tags": "Microbiology,Bacteriology,Culture Media,Exam Pattern"
+    }
+  ]
+}
