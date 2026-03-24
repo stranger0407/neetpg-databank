@@ -1,0 +1,54 @@
+{
+  "subject": "Dermatology",
+  "chapter": "Leprosy",
+  "questions": [
+    {
+      "questionId": "DERM-LEPROSY-001",
+      "questionText": "The lepromin test is typically positive in:",
+      "optionA": "Lepromatous leprosy",
+      "optionB": "Borderline lepromatous leprosy",
+      "optionC": "Tuberculoid leprosy",
+      "optionD": "Histoid leprosy",
+      "correctAnswer": "C",
+      "explanation": "Tuberculoid leprosy has good cell-mediated immunity and therefore shows a positive lepromin test. Lepromatous disease has poor cell-mediated immunity and is usually negative. Borderline forms are variable. Histoid is a multibacillary variant.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "Lepromin",
+      "subtopic": "Immunology of leprosy",
+      "source": "IADVL Textbook of Dermatology, Leprosy",
+      "previousYear": true,
+      "tags": "Dermatology,Leprosy,Immunology,High Yield"
+    },
+    {
+      "questionId": "DERM-LEPROSY-002",
+      "questionText": "The drug most strongly associated with hemolysis in G6PD deficiency during multidrug therapy for leprosy is:",
+      "optionA": "Rifampicin",
+      "optionB": "Dapsone",
+      "optionC": "Clofazimine",
+      "optionD": "Minocycline",
+      "correctAnswer": "B",
+      "explanation": "Dapsone can cause hemolysis and methemoglobinemia, with increased risk in G6PD deficiency. Rifampicin mainly causes hepatotoxicity and enzyme induction. Clofazimine causes skin discoloration. Minocycline is not standard core MDT drug in this context.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "DapsoneHemolysis",
+      "subtopic": "Leprosy pharmacology",
+      "source": "IADVL Dermatology; Katzung Antimicrobials",
+      "previousYear": true,
+      "tags": "Dermatology,Leprosy,Drug Toxicity,Clinical Integration"
+    },
+    {
+      "questionId": "DERM-LEPROSY-003",
+      "questionText": "A patient with multiple symmetric lesions, diffuse infiltration, madarosis, and glove-and-stocking anesthesia most likely has:",
+      "optionA": "Tuberculoid leprosy",
+      "optionB": "Borderline tuberculoid leprosy",
+      "optionC": "Lepromatous leprosy",
+      "optionD": "Indeterminate leprosy",
+      "correctAnswer": "C",
+      "explanation": "Lepromatous leprosy presents with diffuse, symmetric, multibacillary disease, often with madarosis and glove-and-stocking sensory loss. Tuberculoid disease is asymmetric and paucibacillary with well-defined anesthetic patches and nerve enlargement. Borderline tuberculoid is closer to the tuberculoid pole. Indeterminate disease is early and limited.",
+      "difficulty": "HARD",
+      "conceptTag": "LepromatousPattern",
+      "subtopic": "Clinical spectrum of leprosy",
+      "source": "IADVL Textbook of Dermatology, Hansen Disease",
+      "previousYear": true,
+      "tags": "Dermatology,Leprosy,Clinical Diagnosis,Exam Pattern"
+    }
+  ]
+}

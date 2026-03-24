@@ -1,0 +1,54 @@
+{
+  "subject": "Microbiology",
+  "chapter": "Virology",
+  "questions": [
+    {
+      "questionId": "MICRO-VIROLOGY-001",
+      "questionText": "Which hepatitis virus is a defective RNA virus that requires hepatitis B surface antigen for its assembly?",
+      "optionA": "Hepatitis A virus",
+      "optionB": "Hepatitis C virus",
+      "optionC": "Hepatitis D virus",
+      "optionD": "Hepatitis E virus",
+      "correctAnswer": "C",
+      "explanation": "Hepatitis D virus is a defective RNA virus that requires HBV infection and HBsAg for packaging and transmission. HAV and HEV are fecal-oral RNA viruses but not defective. HCV is an enveloped RNA virus that replicates independently.",
+      "difficulty": "EASY",
+      "conceptTag": "HDV",
+      "subtopic": "Hepatitis viruses",
+      "source": "Murray Medical Microbiology, Hepatitis Viruses",
+      "previousYear": true,
+      "tags": "Microbiology,Virology,Hepatitis,High Yield"
+    },
+    {
+      "questionId": "MICRO-VIROLOGY-002",
+      "questionText": "Owl\u2019s eye intranuclear inclusions are characteristic of infection by:",
+      "optionA": "Herpes simplex virus",
+      "optionB": "Cytomegalovirus",
+      "optionC": "Adenovirus",
+      "optionD": "Rabies virus",
+      "correctAnswer": "B",
+      "explanation": "Cytomegalovirus classically causes enlarged cells with owl\u2019s eye intranuclear inclusions. Herpes simplex causes multinucleated giant cells with Cowdry type A inclusions. Adenovirus can produce smudge cells. Rabies shows Negri bodies in neurons.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "CMVInclusion",
+      "subtopic": "Viral pathology correlation",
+      "source": "Murray Medical Microbiology, Herpesviruses",
+      "previousYear": true,
+      "tags": "Microbiology,Virology,Inclusion Bodies,High Yield"
+    },
+    {
+      "questionId": "MICRO-VIROLOGY-003",
+      "questionText": "Post-exposure prophylaxis after a category III dog bite in an unimmunized patient includes all EXCEPT:",
+      "optionA": "Immediate wound washing",
+      "optionB": "Rabies vaccine",
+      "optionC": "Rabies immunoglobulin infiltrated into wound",
+      "optionD": "Tetanus toxoid as a substitute for rabies vaccine",
+      "correctAnswer": "D",
+      "explanation": "Tetanus prophylaxis may be indicated separately, but it cannot substitute for rabies vaccine in category III exposure. Correct rabies management includes immediate wound washing, rabies vaccine, and rabies immunoglobulin for previously unimmunized category III exposure. This is a high-yield practical question.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "RabiesPEP",
+      "subtopic": "Rabies prophylaxis",
+      "source": "Park, Immunization and Prophylaxis; Ananthanarayan, Rabies",
+      "previousYear": false,
+      "tags": "Microbiology,Virology,Rabies,Clinical Integration"
+    }
+  ]
+}

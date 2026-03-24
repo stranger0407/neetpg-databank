@@ -1,0 +1,54 @@
+{
+  "subject": "Obstetrics and Gynecology",
+  "chapter": "Labor",
+  "questions": [
+    {
+      "questionId": "OBG-LABOR-001",
+      "questionText": "The most common cause of postpartum hemorrhage is:",
+      "optionA": "Retained products",
+      "optionB": "Uterine atony",
+      "optionC": "Genital tract trauma",
+      "optionD": "Coagulation failure",
+      "correctAnswer": "B",
+      "explanation": "Uterine atony is the commonest cause of postpartum hemorrhage and is the first cause to consider in the 4 Ts mnemonic. Retained tissue, trauma, and thrombin disorders are other causes but less common overall.",
+      "difficulty": "EASY",
+      "conceptTag": "PPHAtony",
+      "subtopic": "Postpartum hemorrhage",
+      "source": "Dutta, Normal and Abnormal Labor",
+      "previousYear": true,
+      "tags": "OBG,Labor,PPH,High Yield"
+    },
+    {
+      "questionId": "OBG-LABOR-002",
+      "questionText": "The cardinal movement of labor immediately following engagement is:",
+      "optionA": "Extension",
+      "optionB": "Flexion",
+      "optionC": "Internal rotation",
+      "optionD": "Descent",
+      "correctAnswer": "D",
+      "explanation": "The sequence of cardinal movements is engagement, descent, flexion, internal rotation, extension, restitution, and external rotation. Although descent continues throughout labor, it is classically the movement following engagement in standard descriptions. Flexion follows as the presenting part descends further. This is a common sequencing trap.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "CardinalMovements",
+      "subtopic": "Mechanism of labor",
+      "source": "Dutta, Mechanism of Labor",
+      "previousYear": true,
+      "tags": "OBG,Labor,Mechanism,Exam Pattern"
+    },
+    {
+      "questionId": "OBG-LABOR-003",
+      "questionText": "A prolonged latent phase with inadequate uterine contractions is best initially managed by:",
+      "optionA": "Immediate forceps delivery",
+      "optionB": "Emergency cesarean in all cases",
+      "optionC": "Assessment and augmentation when indicated after excluding CPD",
+      "optionD": "Symphysiotomy",
+      "correctAnswer": "C",
+      "explanation": "Management depends on maternal-fetal status and cause; after excluding cephalopelvic disproportion and contraindications, inadequate contractions may be treated with augmentation. Immediate forceps is inappropriate in latent phase. Cesarean is not automatic in every prolonged latent phase. Symphysiotomy is obsolete in most settings.",
+      "difficulty": "HARD",
+      "conceptTag": "LaborDystocia",
+      "subtopic": "Abnormal labor",
+      "source": "Jeffcoate, Labor Abnormalities",
+      "previousYear": false,
+      "tags": "OBG,Labor,Clinical Integration,Management"
+    }
+  ]
+}

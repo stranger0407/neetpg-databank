@@ -1,0 +1,54 @@
+{
+  "subject": "Pathology",
+  "chapter": "Inflammation",
+  "questions": [
+    {
+      "questionId": "PATHO-INFLAMMATION-001",
+      "questionText": "A 24-year-old develops a fluctuant abscess after a staphylococcal skin infection. The predominant inflammatory cells in the lesion are:",
+      "optionA": "Neutrophils",
+      "optionB": "Eosinophils",
+      "optionC": "Plasma cells",
+      "optionD": "Epithelioid histiocytes",
+      "correctAnswer": "A",
+      "explanation": "Acute pyogenic inflammation is dominated by neutrophils, especially in abscesses caused by pyogenic bacteria such as Staphylococcus aureus. Eosinophils are more typical of parasitic disease and allergy. Plasma cells suggest chronic inflammation. Epithelioid histiocytes are seen in granulomatous inflammation.",
+      "difficulty": "EASY",
+      "conceptTag": "NeutrophilicInflammation",
+      "subtopic": "Acute inflammation",
+      "source": "Robbins and Cotran, Inflammation",
+      "previousYear": true,
+      "tags": "Pathology,Inflammation,Acute Inflammation,High Yield"
+    },
+    {
+      "questionId": "PATHO-INFLAMMATION-002",
+      "questionText": "Which chemical mediator is most strongly associated with increased vascular permeability in the immediate transient response of acute inflammation?",
+      "optionA": "Interleukin-2",
+      "optionB": "Histamine",
+      "optionC": "Interferon-gamma",
+      "optionD": "Transforming growth factor-beta",
+      "correctAnswer": "B",
+      "explanation": "Histamine released from mast cells is a key mediator of the immediate transient increase in vascular permeability by causing endothelial contraction in postcapillary venules. IL-2 is a T-cell growth factor. IFN-gamma activates macrophages. TGF-beta is more linked to fibrosis and healing.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "HistamineMediator",
+      "subtopic": "Mediators of inflammation",
+      "source": "Robbins and Cotran, Acute Inflammation",
+      "previousYear": true,
+      "tags": "Pathology,Inflammation,Mediators,Exam Pattern"
+    },
+    {
+      "questionId": "PATHO-INFLAMMATION-003",
+      "questionText": "Granuloma formation is most critically dependent on which cytokine-driven immune response?",
+      "optionA": "IL-4 mediated eosinophilic response",
+      "optionB": "IL-17 mediated neutrophilic response",
+      "optionC": "IFN-gamma mediated macrophage activation",
+      "optionD": "IL-10 mediated immune suppression",
+      "correctAnswer": "C",
+      "explanation": "Granuloma formation requires a T-cell mediated type IV hypersensitivity response with IFN-gamma activating macrophages, which transform into epithelioid cells and giant cells. IL-4 promotes Th2 responses and eosinophils. IL-17 recruits neutrophils. IL-10 suppresses macrophage activation.",
+      "difficulty": "HARD",
+      "conceptTag": "GranulomaIFNgamma",
+      "subtopic": "Chronic inflammation",
+      "source": "Robbins and Cotran, Chronic Inflammation",
+      "previousYear": true,
+      "tags": "Pathology,Inflammation,Granuloma,Clinical Integration"
+    }
+  ]
+}

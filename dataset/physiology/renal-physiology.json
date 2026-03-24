@@ -1,0 +1,54 @@
+{
+  "subject": "Physiology",
+  "chapter": "Renal Physiology",
+  "questions": [
+    {
+      "questionId": "PHYSIOLOGY-RENAL-001",
+      "questionText": "Tubuloglomerular feedback is mediated primarily by sensing of sodium chloride at the:",
+      "optionA": "Proximal tubule",
+      "optionB": "Loop of Henle thin limb",
+      "optionC": "Macula densa",
+      "optionD": "Collecting duct",
+      "correctAnswer": "C",
+      "explanation": "Macula densa cells of the juxtaglomerular apparatus sense tubular NaCl delivery and regulate afferent arteriolar tone and renin release, mediating tubuloglomerular feedback. The proximal tubule and thin limb do not perform this signaling role. Collecting duct is important for final urine concentration, not JGA sensing.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "MaculaDensa",
+      "subtopic": "Juxtaglomerular apparatus",
+      "source": "Guyton and Hall, Renal Physiology",
+      "previousYear": true,
+      "tags": "Physiology,Renal Physiology,Feedback,High Yield"
+    },
+    {
+      "questionId": "PHYSIOLOGY-RENAL-002",
+      "questionText": "The tubular maximum concept is best applied clinically to:",
+      "optionA": "Urea excretion",
+      "optionB": "Glucose reabsorption",
+      "optionC": "Water excretion",
+      "optionD": "Sodium filtration",
+      "correctAnswer": "B",
+      "explanation": "Glucose is freely filtered and reabsorbed up to a transport maximum in the proximal tubule; beyond this threshold glycosuria appears. Urea handling is not described by a simple transport maximum in the same exam context. Water excretion is hormonally regulated. Sodium filtration depends on GFR, not tubular maximum.",
+      "difficulty": "EASY",
+      "conceptTag": "TmGlucose",
+      "subtopic": "Tubular transport",
+      "source": "Ganong, Kidney and Body Fluids",
+      "previousYear": true,
+      "tags": "Physiology,Renal Physiology,Tubular Transport,High Yield"
+    },
+    {
+      "questionId": "PHYSIOLOGY-RENAL-003",
+      "questionText": "A patient with SIADH is expected to have which urinary finding?",
+      "optionA": "Dilute urine with low osmolality",
+      "optionB": "Concentrated urine with high osmolality",
+      "optionC": "Glucosuria with alkaline urine",
+      "optionD": "High bicarbonate with low sodium excretion",
+      "correctAnswer": "B",
+      "explanation": "In SIADH, excess ADH causes increased water reabsorption in the collecting duct, producing inappropriately concentrated urine despite hypo-osmolality of plasma. Dilute urine is expected when ADH is suppressed, as in primary polydipsia. Glucosuria and bicarbonaturia are unrelated here.",
+      "difficulty": "HARD",
+      "conceptTag": "SIADHUrine",
+      "subtopic": "Water balance",
+      "source": "Guyton and Hall, Renal Regulation of Osmolality",
+      "previousYear": true,
+      "tags": "Physiology,Renal Physiology,Clinical Integration,Lab Based"
+    }
+  ]
+}

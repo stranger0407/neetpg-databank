@@ -1,0 +1,54 @@
+{
+  "subject": "ENT",
+  "chapter": "Otology",
+  "questions": [
+    {
+      "questionId": "ENT-OTOLOGY-001",
+      "questionText": "Rinne test is positive in:",
+      "optionA": "Conductive hearing loss only",
+      "optionB": "Sensorineural hearing loss or normal hearing",
+      "optionC": "Only otosclerosis",
+      "optionD": "Only unilateral deafness",
+      "correctAnswer": "B",
+      "explanation": "A positive Rinne means air conduction is better than bone conduction, which is normal and also seen in sensorineural hearing loss. Conductive loss gives a negative Rinne in the affected ear. Otosclerosis causes conductive hearing loss and often a negative Rinne. The test must be interpreted with Weber and clinical context.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "RinneTest",
+      "subtopic": "Tuning fork tests",
+      "source": "Dhingra, Ear",
+      "previousYear": true,
+      "tags": "ENT,Otology,Hearing Tests,High Yield"
+    },
+    {
+      "questionId": "ENT-OTOLOGY-002",
+      "questionText": "The most common organism causing malignant otitis externa in diabetic patients is:",
+      "optionA": "Staphylococcus aureus",
+      "optionB": "Pseudomonas aeruginosa",
+      "optionC": "Streptococcus pyogenes",
+      "optionD": "Proteus mirabilis",
+      "correctAnswer": "B",
+      "explanation": "Malignant otitis externa, especially in elderly diabetics, is classically caused by Pseudomonas aeruginosa. Staphylococcus aureus can cause otitis externa but is not the classic aggressive organism here. Streptococcus and Proteus are less typical.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "MalignantOtitis",
+      "subtopic": "External ear infections",
+      "source": "Dhingra, Diseases of Ear",
+      "previousYear": true,
+      "tags": "ENT,Otology,Infections,Clinical Integration"
+    },
+    {
+      "questionId": "ENT-OTOLOGY-003",
+      "questionText": "Facial nerve palsy is a recognized complication of:",
+      "optionA": "Otitis media with cholesteatoma",
+      "optionB": "Allergic rhinitis",
+      "optionC": "DNS without infection",
+      "optionD": "Pharyngitis only",
+      "correctAnswer": "A",
+      "explanation": "Cholesteatoma can erode bone and involve the facial canal, causing facial nerve palsy. Allergic rhinitis, deviated nasal septum without infection, and uncomplicated pharyngitis do not typically produce this complication.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "CholesteatomaComplication",
+      "subtopic": "Middle ear disease",
+      "source": "Dhingra, Chronic Suppurative Otitis Media",
+      "previousYear": true,
+      "tags": "ENT,Otology,Complications,Exam Pattern"
+    }
+  ]
+}

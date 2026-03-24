@@ -1,0 +1,54 @@
+{
+  "subject": "Pathology",
+  "chapter": "Hemodynamics",
+  "questions": [
+    {
+      "questionId": "PATHO-HEMODYNAMICS-001",
+      "questionText": "Nutmeg liver is classically associated with:",
+      "optionA": "Chronic passive congestion",
+      "optionB": "Fatty liver of alcoholism",
+      "optionC": "Wilson disease",
+      "optionD": "Acute viral hepatitis",
+      "correctAnswer": "A",
+      "explanation": "Nutmeg liver describes the mottled appearance of chronic passive congestion of the liver, usually due to right-sided heart failure. Alcoholic fatty liver shows diffuse yellow change. Wilson disease causes copper accumulation. Acute viral hepatitis does not produce the classical nutmeg appearance.",
+      "difficulty": "EASY",
+      "conceptTag": "NutmegLiver",
+      "subtopic": "Congestion",
+      "source": "Robbins and Cotran, Hemodynamic Disorders",
+      "previousYear": true,
+      "tags": "Pathology,Hemodynamics,Congestion,High Yield"
+    },
+    {
+      "questionId": "PATHO-HEMODYNAMICS-002",
+      "questionText": "The most common source of pulmonary thromboembolism is:",
+      "optionA": "Thrombus in left atrium",
+      "optionB": "Deep veins of lower limb",
+      "optionC": "Portal vein thrombosis",
+      "optionD": "Coronary artery thrombosis",
+      "correctAnswer": "B",
+      "explanation": "Most pulmonary emboli arise from deep venous thromboses of the lower limbs, especially popliteal, femoral, and iliac veins. Left atrial thrombi embolize systemically. Portal vein thrombosis affects portal circulation. Coronary thrombosis causes myocardial infarction, not pulmonary embolism.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "PESource",
+      "subtopic": "Thrombosis and embolism",
+      "source": "Robbins and Cotran, Thrombosis",
+      "previousYear": true,
+      "tags": "Pathology,Hemodynamics,Thromboembolism,High Yield"
+    },
+    {
+      "questionId": "PATHO-HEMODYNAMICS-003",
+      "questionText": "Which Virchow triad component best explains thrombosis after prolonged immobilization following fracture?",
+      "optionA": "Endothelial activation only",
+      "optionB": "Stasis of blood flow",
+      "optionC": "Hypercalcemia",
+      "optionD": "Platelet qualitative defect",
+      "correctAnswer": "B",
+      "explanation": "Immobility causes venous stasis, one major limb of Virchow triad, predisposing to deep vein thrombosis. Endothelial injury can contribute in trauma but prolonged immobilization specifically emphasizes stasis. Hypercalcemia is not a Virchow triad element. Platelet qualitative defects usually predispose to bleeding rather than thrombosis.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "VirchowStasis",
+      "subtopic": "Pathogenesis of thrombosis",
+      "source": "Robbins and Cotran, Hemostasis and Thrombosis",
+      "previousYear": false,
+      "tags": "Pathology,Hemodynamics,Virchow Triad,Clinical Correlation"
+    }
+  ]
+}

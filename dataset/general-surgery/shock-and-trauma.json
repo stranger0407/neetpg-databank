@@ -1,0 +1,54 @@
+{
+  "subject": "General Surgery",
+  "chapter": "Shock and Trauma",
+  "questions": [
+    {
+      "questionId": "SURG-SHOCKTRAUMA-001",
+      "questionText": "The most sensitive early indicator of hypovolemic shock is often:",
+      "optionA": "Hypotension",
+      "optionB": "Bradycardia",
+      "optionC": "Tachycardia",
+      "optionD": "Widened pulse pressure",
+      "correctAnswer": "C",
+      "explanation": "Tachycardia is often an early physiologic response to hypovolemia, whereas hypotension is a later sign. Bradycardia is uncommon in early hypovolemic shock. Pulse pressure usually narrows rather than widens.",
+      "difficulty": "EASY",
+      "conceptTag": "HypovolemicShock",
+      "subtopic": "Trauma physiology",
+      "source": "Bailey and Love, Shock and Trauma",
+      "previousYear": true,
+      "tags": "Surgery,Shock and Trauma,Emergency,High Yield"
+    },
+    {
+      "questionId": "SURG-SHOCKTRAUMA-002",
+      "questionText": "A patient with trauma has hypotension, raised JVP, muffled heart sounds, and pulsus paradoxus. The most likely diagnosis is:",
+      "optionA": "Neurogenic shock",
+      "optionB": "Cardiac tamponade",
+      "optionC": "Massive hemothorax",
+      "optionD": "Septic shock",
+      "correctAnswer": "B",
+      "explanation": "Beck triad of hypotension, raised JVP, and muffled heart sounds strongly suggests cardiac tamponade; pulsus paradoxus further supports it. Neurogenic shock typically has hypotension with bradycardia. Massive hemothorax causes shock but usually with reduced breath sounds and not muffled heart sounds. Septic shock is distributive.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "TamponadeTrauma",
+      "subtopic": "Thoracic trauma",
+      "source": "Bailey and Love, Trauma",
+      "previousYear": true,
+      "tags": "Surgery,Shock and Trauma,Clinical Integration,High Yield"
+    },
+    {
+      "questionId": "SURG-SHOCKTRAUMA-003",
+      "questionText": "In ATLS primary survey, disability assessment refers mainly to rapid evaluation of:",
+      "optionA": "Long bone fractures",
+      "optionB": "Neurologic status",
+      "optionC": "Abdominal tenderness",
+      "optionD": "Fluid responsiveness",
+      "correctAnswer": "B",
+      "explanation": "In the ABCDE trauma survey, D stands for disability, meaning a rapid neurologic assessment such as GCS, pupils, and limb movement. Long bone fractures are addressed during exposure/secondary survey context. Abdominal tenderness and fluid responsiveness are not the principal meaning of D.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "ATLSD",
+      "subtopic": "Primary survey",
+      "source": "Schwartz\u2019s Principles of Surgery, Trauma",
+      "previousYear": true,
+      "tags": "Surgery,Shock and Trauma,ATLS,Exam Pattern"
+    }
+  ]
+}

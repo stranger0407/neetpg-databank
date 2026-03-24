@@ -1,0 +1,22 @@
+{
+  "Anatomy": ["Upper Limb", "Lower Limb", "Thorax", "Abdomen", "Pelvis and Perineum", "Head and Neck", "Neuroanatomy", "Embryology", "Histology"],
+  "Physiology": ["General Physiology", "Blood", "Nerve-Muscle Physiology", "Cardiac Cycle", "Cardiovascular System", "Respiration", "Renal Physiology", "Gastrointestinal Physiology", "Endocrinology", "Reproductive Physiology", "Neurophysiology"],
+  "Biochemistry": ["Biomolecules", "Enzymes", "Carbohydrate Metabolism", "Lipid Metabolism", "Protein Metabolism", "Molecular Biology", "Vitamins and Minerals", "Nutrition", "Clinical Biochemistry"],
+  "Pathology": ["Cell Injury", "Inflammation", "Healing and Repair", "Hemodynamics", "Hematology", "Cardiovascular Pathology", "Respiratory Pathology", "GIT Pathology", "Renal Pathology", "Endocrine Pathology", "Systemic Pathology"],
+  "Pharmacology": ["General Pharmacology", "Autonomic Pharmacology", "Cardiovascular Pharmacology", "CNS Pharmacology", "Endocrine Pharmacology", "Antimicrobials", "Chemotherapy", "NSAIDs", "Toxicology"],
+  "Microbiology": ["Immunology", "Bacteriology", "Virology", "Mycology", "Parasitology", "Sterilization and Disinfection", "Hospital Infection Control"],
+  "Forensic Medicine": ["Injuries", "Asphyxia", "Toxicology", "Medical Jurisprudence", "Identification", "Thanatology", "Sexual Offences"],
+  "Community Medicine": ["Concept of Health", "Epidemiology", "Biostatistics", "Screening", "Infectious Disease Epidemiology", "Nutrition", "Environmental Health", "National Health Programs", "Immunization", "Health Management"],
+  "General Medicine": ["Cardiology", "Respiratory Medicine", "Gastroenterology", "Nephrology", "Neurology", "Endocrinology", "Infectious Diseases", "Rheumatology", "Hematology", "Dermatology Integration"],
+  "General Surgery": ["Wound Healing", "Shock and Trauma", "Thyroid", "Breast", "GIT Surgery", "Hepatobiliary Surgery", "Vascular Surgery", "Urology", "Neurosurgery Basics", "Oncosurgery Basics"],
+  "Obstetrics and Gynecology": ["Early Pregnancy", "Antenatal Care", "Hypertensive Disorders of Pregnancy", "Labor", "Postpartum Hemorrhage", "Contraception", "Infertility", "Gynecologic Oncology", "Menstrual Disorders", "Reproductive Endocrinology"],
+  "Pediatrics": ["Growth and Development", "Neonatology", "Nutrition", "Immunization", "Respiratory Disorders", "Gastrointestinal Disorders", "Nephrology", "Neurology", "Hematology", "Pediatric Emergencies"],
+  "Orthopedics": ["Fractures", "Bone Infections", "Bone Tumors", "Arthritis", "Spine", "Pediatric Orthopedics", "Sports Injuries", "Trauma"],
+  "Ophthalmology": ["Optics and Refraction", "Glaucoma", "Lens", "Uvea", "Retina", "Neuro-ophthalmology", "Ocular Trauma"],
+  "ENT": ["Otology", "Rhinology", "Laryngology", "Head and Neck", "Audiology", "Vertigo", "Airway Emergencies"],
+  "Dermatology": ["Leprosy", "Sexually Transmitted Infections", "Papulosquamous Disorders", "Vesiculobullous Disorders", "Pigmentary Disorders", "Drug Reactions", "Dermatopathology Basics"],
+  "Psychiatry": ["Mood Disorders", "Schizophrenia Spectrum", "Anxiety Disorders", "Substance Use Disorders", "Child Psychiatry", "Psychiatric Emergencies", "Psychopharmacology"],
+  "Anaesthesia": ["General Anaesthesia", "Regional Anaesthesia", "Airway", "Preoperative Assessment", "Monitoring", "ICU and Critical Care Basics", "Pain Medicine"],
+  "Radiology": ["Chest Imaging", "Neuroimaging", "Abdominal Imaging", "Musculoskeletal Imaging", "Obstetric Ultrasound", "Emergency Radiology", "Contrast Media"],
+  "Emergency Medicine": ["Shock", "Trauma", "Poisoning", "ACLS and BLS Basics", "Electrolyte Emergencies", "Ventilator Basics", "Sepsis and Critical Care"]
+}

@@ -1,0 +1,54 @@
+{
+  "subject": "Community Medicine",
+  "chapter": "Biostatistics",
+  "questions": [
+    {
+      "questionId": "PSM-BIOSTATS-001",
+      "questionText": "Sensitivity of a screening test refers to the ability of the test to correctly identify:",
+      "optionA": "Healthy individuals",
+      "optionB": "Diseased individuals",
+      "optionC": "True negatives among all negatives",
+      "optionD": "Non-exposed individuals",
+      "correctAnswer": "B",
+      "explanation": "Sensitivity is the proportion of true positives among all diseased individuals and reflects the ability to detect disease. Specificity identifies healthy individuals correctly. True negatives among all negatives is essentially specificity-related. Exposure status is unrelated to this definition.",
+      "difficulty": "EASY",
+      "conceptTag": "Sensitivity",
+      "subtopic": "Screening test evaluation",
+      "source": "Park, Biostatistics and Screening",
+      "previousYear": true,
+      "tags": "Community Medicine,Biostatistics,Screening,High Yield"
+    },
+    {
+      "questionId": "PSM-BIOSTATS-002",
+      "questionText": "Which measure is most appropriate to compare the strength of association in a case-control study?",
+      "optionA": "Incidence rate",
+      "optionB": "Risk difference",
+      "optionC": "Odds ratio",
+      "optionD": "Attributable risk",
+      "correctAnswer": "C",
+      "explanation": "Case-control studies start with outcome status and cannot directly calculate incidence; therefore odds ratio is the appropriate measure of association. Incidence rate, risk difference, and attributable risk are more suited to cohort or interventional designs when incidence can be measured.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "OddsRatio",
+      "subtopic": "Analytical epidemiology",
+      "source": "Park, Epidemiology",
+      "previousYear": true,
+      "tags": "Community Medicine,Biostatistics,Study Designs,High Yield"
+    },
+    {
+      "questionId": "PSM-BIOSTATS-003",
+      "questionText": "If disease prevalence increases while sensitivity and specificity remain unchanged, the positive predictive value will usually:",
+      "optionA": "Decrease",
+      "optionB": "Increase",
+      "optionC": "Remain unchanged",
+      "optionD": "Become zero",
+      "correctAnswer": "B",
+      "explanation": "Positive predictive value increases with rising prevalence because a positive result is more likely to represent true disease in a higher prevalence population. Sensitivity and specificity are intrinsic test characteristics and remain constant. PPV therefore does not stay unchanged under prevalence shifts.",
+      "difficulty": "HARD",
+      "conceptTag": "PPVPrevalence",
+      "subtopic": "Predictive values",
+      "source": "Park, Screening for Disease",
+      "previousYear": true,
+      "tags": "Community Medicine,Biostatistics,Predictive Value,Exam Pattern"
+    }
+  ]
+}

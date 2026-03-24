@@ -1,0 +1,54 @@
+{
+  "subject": "Biochemistry",
+  "chapter": "Molecular Biology",
+  "questions": [
+    {
+      "questionId": "BIOCHEM-MOLECULAR-001",
+      "questionText": "The DNA repair defect in xeroderma pigmentosum involves failure of:",
+      "optionA": "Mismatch repair",
+      "optionB": "Base excision repair",
+      "optionC": "Nucleotide excision repair",
+      "optionD": "Non-homologous end joining",
+      "correctAnswer": "C",
+      "explanation": "Xeroderma pigmentosum is caused by defective nucleotide excision repair, so thymine dimers induced by UV radiation are not removed effectively. Mismatch repair defects are linked with Lynch syndrome. Base excision repair deals with small non-bulky base lesions. Non-homologous end joining repairs double-strand breaks. The exam trap is confusing UV-induced bulky lesions with mismatch defects.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "NER",
+      "subtopic": "DNA repair",
+      "source": "Lehninger Principles of Biochemistry, Nucleic Acid Structure and Repair",
+      "previousYear": true,
+      "tags": "Biochemistry,Molecular Biology,DNA Repair,High Yield"
+    },
+    {
+      "questionId": "BIOCHEM-MOLECULAR-002",
+      "questionText": "RNA primer removal during prokaryotic DNA replication is primarily carried out by:",
+      "optionA": "DNA polymerase I",
+      "optionB": "DNA polymerase III",
+      "optionC": "Primase",
+      "optionD": "DNA ligase",
+      "correctAnswer": "A",
+      "explanation": "DNA polymerase I possesses 5' to 3' exonuclease activity that removes RNA primers and fills the gap with DNA. DNA polymerase III is the main elongating enzyme. Primase synthesizes the RNA primer rather than removing it. DNA ligase seals the nick after primer replacement. This is a classic polymerase function distinction.",
+      "difficulty": "EASY",
+      "conceptTag": "DNApolI",
+      "subtopic": "DNA replication",
+      "source": "Harper\u2019s Illustrated Biochemistry, Molecular Biology",
+      "previousYear": true,
+      "tags": "Biochemistry,Molecular Biology,DNA Replication,Exam Pattern"
+    },
+    {
+      "questionId": "BIOCHEM-MOLECULAR-003",
+      "questionText": "An infant with severe combined immunodeficiency due to adenosine deaminase deficiency accumulates which toxic metabolite?",
+      "optionA": "Orotic acid",
+      "optionB": "dATP",
+      "optionC": "UMP",
+      "optionD": "Xanthine",
+      "correctAnswer": "B",
+      "explanation": "ADA deficiency leads to accumulation of adenosine and deoxyadenosine metabolites, especially dATP, which inhibits ribonucleotide reductase and impairs DNA synthesis in lymphocytes, causing SCID. Orotic acid is seen in UMP synthase deficiency or OTC deficiency context. UMP is not the toxic metabolite here. Xanthine accumulates in xanthine oxidase pathway disorders, not ADA deficiency.",
+      "difficulty": "HARD",
+      "conceptTag": "ADAdeficiency",
+      "subtopic": "Purine metabolism and immunology",
+      "source": "Lippincott Illustrated Reviews: Biochemistry, Purine and Pyrimidine Metabolism",
+      "previousYear": true,
+      "tags": "Biochemistry,Molecular Biology,Purine Metabolism,Clinical Integration"
+    }
+  ]
+}

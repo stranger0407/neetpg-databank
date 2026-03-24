@@ -1,0 +1,54 @@
+{
+  "subject": "Radiology",
+  "chapter": "Chest Imaging",
+  "questions": [
+    {
+      "questionId": "RAD-CHEST-001",
+      "questionText": "A homogenous opacity with meniscus sign on chest X-ray most likely indicates:",
+      "optionA": "Pneumothorax",
+      "optionB": "Pleural effusion",
+      "optionC": "Lobar collapse",
+      "optionD": "Lung abscess",
+      "correctAnswer": "B",
+      "explanation": "Pleural effusion classically causes a homogenous opacity with a meniscus sign due to fluid rising along the chest wall. Pneumothorax causes hyperlucency without lung markings. Lobar collapse shows volume loss. Lung abscess shows a cavity, often with an air-fluid level.",
+      "difficulty": "EASY",
+      "conceptTag": "PleuralEffusionXray",
+      "subtopic": "Chest X-ray interpretation",
+      "source": "Learning Radiology, Chest",
+      "previousYear": true,
+      "tags": "Radiology,Chest Imaging,X-ray,High Yield"
+    },
+    {
+      "questionId": "RAD-CHEST-002",
+      "questionText": "Air bronchograms within a lung opacity favor:",
+      "optionA": "Pleural effusion",
+      "optionB": "Pneumothorax",
+      "optionC": "Alveolar consolidation",
+      "optionD": "Hydropneumothorax",
+      "correctAnswer": "C",
+      "explanation": "Air bronchograms are visible when air-filled bronchi are outlined by surrounding alveolar opacification, which is typical of consolidation. Pleural effusion lies outside the lung and does not produce air bronchograms. Pneumothorax is air in pleural space. Hydropneumothorax shows pleural air-fluid level.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "AirBronchogram",
+      "subtopic": "Lung opacity pattern",
+      "source": "Learning Radiology, Pulmonary Patterns",
+      "previousYear": true,
+      "tags": "Radiology,Chest Imaging,Pattern Recognition,Clinical Integration"
+    },
+    {
+      "questionId": "RAD-CHEST-003",
+      "questionText": "The best initial imaging modality for suspected pulmonary embolism in a hemodynamically stable patient without contraindication to contrast is:",
+      "optionA": "Plain chest radiograph",
+      "optionB": "CT pulmonary angiography",
+      "optionC": "MRI chest",
+      "optionD": "Barium swallow",
+      "correctAnswer": "B",
+      "explanation": "CT pulmonary angiography is the preferred first-line imaging test in many stable patients with suspected pulmonary embolism when contrast is not contraindicated. Chest radiograph is nonspecific. MRI chest is not routine first-line. Barium swallow is unrelated.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "CTPA",
+      "subtopic": "Pulmonary embolism imaging",
+      "source": "Standard Imaging Review Text, Thoracic Emergencies",
+      "previousYear": false,
+      "tags": "Radiology,Chest Imaging,Emergency,Exam Pattern"
+    }
+  ]
+}

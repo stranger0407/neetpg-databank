@@ -1,0 +1,54 @@
+{
+  "subject": "Microbiology",
+  "chapter": "Immunology",
+  "questions": [
+    {
+      "questionId": "MICRO-IMMUNOLOGY-001",
+      "questionText": "The first antibody produced in a primary immune response is:",
+      "optionA": "IgA",
+      "optionB": "IgG",
+      "optionC": "IgM",
+      "optionD": "IgE",
+      "correctAnswer": "C",
+      "explanation": "IgM is produced first in the primary immune response before class switching. IgG predominates later and in secondary responses. IgA is important in mucosal immunity. IgE mediates allergic and parasitic responses.",
+      "difficulty": "EASY",
+      "conceptTag": "PrimaryIgM",
+      "subtopic": "Humoral immunity",
+      "source": "Ananthanarayan and Paniker, Immunology",
+      "previousYear": true,
+      "tags": "Microbiology,Immunology,Antibodies,High Yield"
+    },
+    {
+      "questionId": "MICRO-IMMUNOLOGY-002",
+      "questionText": "CD4 count falls most profoundly in infection with:",
+      "optionA": "Epstein-Barr virus",
+      "optionB": "Hepatitis B virus",
+      "optionC": "Human immunodeficiency virus",
+      "optionD": "Rabies virus",
+      "correctAnswer": "C",
+      "explanation": "HIV infects CD4+ T lymphocytes via CD4 and co-receptors, leading to progressive immunodeficiency. EBV infects B cells, HBV infects hepatocytes, and rabies targets nervous tissue.",
+      "difficulty": "EASY",
+      "conceptTag": "HIVCD4",
+      "subtopic": "Immunodeficiency",
+      "source": "Jawetz, Medical Microbiology, Immunology and HIV",
+      "previousYear": true,
+      "tags": "Microbiology,Immunology,HIV,High Yield"
+    },
+    {
+      "questionId": "MICRO-IMMUNOLOGY-003",
+      "questionText": "A child with recurrent catalase-positive bacterial and fungal infections and abnormal nitroblue tetrazolium test most likely has:",
+      "optionA": "DiGeorge syndrome",
+      "optionB": "Chronic granulomatous disease",
+      "optionC": "Severe combined immunodeficiency",
+      "optionD": "Wiskott-Aldrich syndrome",
+      "correctAnswer": "B",
+      "explanation": "Chronic granulomatous disease is caused by defective NADPH oxidase and presents with recurrent catalase-positive infections and abnormal oxidative burst tests such as NBT/DHR. DiGeorge is a T-cell disorder with thymic aplasia. SCID affects both T and B function. Wiskott-Aldrich features eczema, thrombocytopenia, and infections.",
+      "difficulty": "HARD",
+      "conceptTag": "CGD",
+      "subtopic": "Phagocyte disorders",
+      "source": "Murray Medical Microbiology, Host Defense Defects",
+      "previousYear": true,
+      "tags": "Microbiology,Immunology,Immunodeficiency,Clinical Integration"
+    }
+  ]
+}

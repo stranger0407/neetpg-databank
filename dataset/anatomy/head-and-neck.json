@@ -1,0 +1,54 @@
+{
+  "subject": "Anatomy",
+  "chapter": "Head and Neck",
+  "questions": [
+    {
+      "questionId": "ANATOMY-HEADNECK-001",
+      "questionText": "The nerve most commonly injured during parotid surgery is:",
+      "optionA": "Hypoglossal nerve",
+      "optionB": "Facial nerve",
+      "optionC": "Glossopharyngeal nerve",
+      "optionD": "Lingual nerve",
+      "correctAnswer": "B",
+      "explanation": "The facial nerve traverses the parotid gland and is at risk during parotid surgery. Hypoglossal nerve lies deeper in the neck. Glossopharyngeal nerve is related to stylopharyngeus and pharynx. Lingual nerve is in the infratemporal/submandibular region.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "FacialNerveParotid",
+      "subtopic": "Parotid gland",
+      "source": "BD Chaurasia, Head and Neck",
+      "previousYear": true,
+      "tags": "Anatomy,Head and Neck,Applied Anatomy,High Yield"
+    },
+    {
+      "questionId": "ANATOMY-HEADNECK-002",
+      "questionText": "The palatine tonsil lies in the tonsillar fossa between:",
+      "optionA": "Palatoglossal and palatopharyngeal arches",
+      "optionB": "Superior and middle constrictors",
+      "optionC": "Tensor veli palatini and levator veli palatini",
+      "optionD": "Genioglossus and hyoglossus",
+      "correctAnswer": "A",
+      "explanation": "The palatine tonsil is situated in the tonsillar fossa between the palatoglossal and palatopharyngeal arches. The constrictors form deeper pharyngeal wall relations. Tensor and levator veli palatini are soft palate muscles. Genioglossus and hyoglossus are tongue muscles.",
+      "difficulty": "EASY",
+      "conceptTag": "TonsillarFossa",
+      "subtopic": "Oral cavity and pharynx",
+      "source": "Snell Clinical Anatomy, Head and Neck",
+      "previousYear": true,
+      "tags": "Anatomy,Head and Neck,Pharynx,Exam Pattern"
+    },
+    {
+      "questionId": "ANATOMY-HEADNECK-003",
+      "questionText": "A fracture involving the pterion is dangerous because it may tear the:",
+      "optionA": "Middle meningeal artery",
+      "optionB": "Anterior cerebral artery",
+      "optionC": "Basilar artery",
+      "optionD": "Sigmoid sinus",
+      "correctAnswer": "A",
+      "explanation": "The pterion overlies the anterior branch of the middle meningeal artery; fracture here can cause extradural hematoma. The anterior cerebral artery is intracranial and not the classic vessel under the pterion. Basilar artery lies on the brainstem. Sigmoid sinus is posterior in the skull.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "Pterion",
+      "subtopic": "Applied skull anatomy",
+      "source": "Gray\u2019s Anatomy, Skull and Cranial Cavity",
+      "previousYear": true,
+      "tags": "Anatomy,Head and Neck,Neuroanatomy Correlation,Clinical Integration"
+    }
+  ]
+}

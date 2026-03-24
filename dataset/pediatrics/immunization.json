@@ -1,0 +1,54 @@
+{
+  "subject": "Pediatrics",
+  "chapter": "Immunization",
+  "questions": [
+    {
+      "questionId": "PEDS-IMMUNIZATION-001",
+      "questionText": "The BCG vaccine is administered by which route?",
+      "optionA": "Subcutaneous",
+      "optionB": "Oral",
+      "optionC": "Intradermal",
+      "optionD": "Intramuscular",
+      "correctAnswer": "C",
+      "explanation": "BCG is given intradermally, usually over the left upper arm. Oral route applies to OPV and rotavirus. Intramuscular route is used for many other routine vaccines. Subcutaneous is not the standard route for BCG.",
+      "difficulty": "EASY",
+      "conceptTag": "BCGRoute",
+      "subtopic": "Routine immunization",
+      "source": "Ghai Essential Pediatrics, Immunization",
+      "previousYear": true,
+      "tags": "Pediatrics,Immunization,Vaccines,High Yield"
+    },
+    {
+      "questionId": "PEDS-IMMUNIZATION-002",
+      "questionText": "The first vaccine given at birth in India that prevents vertical transmission-related chronic liver disease is:",
+      "optionA": "OPV zero dose",
+      "optionB": "BCG",
+      "optionC": "Hepatitis B vaccine",
+      "optionD": "Measles vaccine",
+      "correctAnswer": "C",
+      "explanation": "Birth-dose hepatitis B vaccine is given to reduce perinatal transmission and the later risk of chronic hepatitis and cirrhosis. OPV zero dose and BCG are also given at birth but do not address chronic HBV risk. Measles vaccine is given later.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "BirthDoseHepB",
+      "subtopic": "National immunization schedule",
+      "source": "Ghai Essential Pediatrics, Preventive Pediatrics",
+      "previousYear": true,
+      "tags": "Pediatrics,Immunization,National Schedule,Clinical Integration"
+    },
+    {
+      "questionId": "PEDS-IMMUNIZATION-003",
+      "questionText": "A child who develops anaphylaxis after a previous vaccine dose generally has which absolute contraindication for further doses of that same vaccine?",
+      "optionA": "Mild fever after vaccination",
+      "optionB": "Local pain at injection site",
+      "optionC": "Severe allergic reaction to previous dose",
+      "optionD": "Concurrent antibiotic therapy",
+      "correctAnswer": "C",
+      "explanation": "A severe allergic reaction such as anaphylaxis to a previous dose is an absolute contraindication to subsequent doses of that same vaccine unless specialist guidance suggests otherwise. Mild fever, local pain, and concurrent antibiotics are not absolute contraindications.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "VaccineContraindication",
+      "subtopic": "Adverse events following immunization",
+      "source": "Nelson Textbook of Pediatrics, Immunization",
+      "previousYear": false,
+      "tags": "Pediatrics,Immunization,Safety,Exam Pattern"
+    }
+  ]
+}

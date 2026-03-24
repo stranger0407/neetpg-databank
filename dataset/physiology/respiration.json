@@ -1,0 +1,54 @@
+{
+  "subject": "Physiology",
+  "chapter": "Respiration",
+  "questions": [
+    {
+      "questionId": "PHYSIOLOGY-RESPIRATION-001",
+      "questionText": "The most potent physiological stimulus for increase in ventilation in a healthy individual is:",
+      "optionA": "Decrease in arterial PO2 from 100 to 80 mm Hg",
+      "optionB": "Increase in arterial PCO2",
+      "optionC": "Increase in arterial oxygen content",
+      "optionD": "Decrease in venous PCO2",
+      "correctAnswer": "B",
+      "explanation": "Arterial PCO2 is the major physiological regulator of ventilation because CO2 rapidly alters CSF hydrogen ion concentration and stimulates central chemoreceptors. Small decreases in PO2 within the normal range are weak stimuli; hypoxic drive becomes important when PO2 falls significantly below about 60 mm Hg. Increased oxygen content does not stimulate ventilation. Decreased venous PCO2 is irrelevant here.",
+      "difficulty": "EASY",
+      "conceptTag": "CO2VentilatoryDrive",
+      "subtopic": "Chemoreceptor control of breathing",
+      "source": "Guyton and Hall, Respiration",
+      "previousYear": true,
+      "tags": "Physiology,Respiration,Control of Breathing,High Yield"
+    },
+    {
+      "questionId": "PHYSIOLOGY-RESPIRATION-002",
+      "questionText": "In carbon monoxide poisoning, which parameter remains near normal in the early phase despite marked tissue hypoxia?",
+      "optionA": "Dissolved oxygen in plasma and PaO2",
+      "optionB": "Total oxygen content of blood",
+      "optionC": "Mixed venous oxygen saturation",
+      "optionD": "Oxygen carrying capacity of available hemoglobin",
+      "correctAnswer": "A",
+      "explanation": "Carbon monoxide poisoning reduces oxygen content by occupying hemoglobin binding sites and shifting the dissociation curve to the left, but PaO2 and dissolved oxygen in plasma are often normal because they reflect oxygen dissolved in blood, not hemoglobin saturation. Total oxygen content falls, mixed venous saturation tends to decrease, and effective oxygen carrying capacity is reduced. This is a classic ABG trap.",
+      "difficulty": "HARD",
+      "conceptTag": "COPoisoningABG",
+      "subtopic": "Gas transport",
+      "source": "Ganong, Respiratory Physiology",
+      "previousYear": true,
+      "tags": "Physiology,Respiration,Clinical Integration,ABG"
+    },
+    {
+      "questionId": "PHYSIOLOGY-RESPIRATION-003",
+      "questionText": "Surfactant primarily decreases alveolar surface tension by the action of:",
+      "optionA": "DPPC produced by type II pneumocytes",
+      "optionB": "Elastin produced by type I pneumocytes",
+      "optionC": "Mucus secreted by Clara cells",
+      "optionD": "Albumin transudation into alveoli",
+      "correctAnswer": "A",
+      "explanation": "Pulmonary surfactant is rich in dipalmitoyl phosphatidylcholine and is secreted by type II pneumocytes, reducing surface tension and preventing alveolar collapse. Type I pneumocytes are for gas exchange, not elastin production. Clara or club cells are bronchiolar secretory cells, not the major source of alveolar surfactant. Albumin in alveoli would worsen gas exchange rather than improve compliance.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "Surfactant",
+      "subtopic": "Lung mechanics",
+      "source": "Guyton and Hall, Pulmonary Mechanics",
+      "previousYear": true,
+      "tags": "Physiology,Respiration,Lung Mechanics,High Yield"
+    }
+  ]
+}

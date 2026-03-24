@@ -1,0 +1,54 @@
+{
+  "subject": "Pharmacology",
+  "chapter": "Antimicrobials",
+  "questions": [
+    {
+      "questionId": "PHARMA-ANTIMICROBIALS-001",
+      "questionText": "The antibacterial action of beta-lactam antibiotics is due to inhibition of:",
+      "optionA": "DNA gyrase",
+      "optionB": "Peptidyl transferase",
+      "optionC": "Transpeptidase-mediated cell wall cross-linking",
+      "optionD": "Dihydropteroate synthase",
+      "correctAnswer": "C",
+      "explanation": "Beta-lactams bind penicillin-binding proteins and inhibit transpeptidation of peptidoglycan, impairing bacterial cell wall synthesis. DNA gyrase is inhibited by fluoroquinolones. Peptidyl transferase is inhibited by chloramphenicol. Dihydropteroate synthase is inhibited by sulfonamides.",
+      "difficulty": "EASY",
+      "conceptTag": "BetaLactamMOA",
+      "subtopic": "Cell wall synthesis inhibitors",
+      "source": "Katzung, Antimicrobial Agents",
+      "previousYear": true,
+      "tags": "Pharmacology,Antimicrobials,MOA,High Yield"
+    },
+    {
+      "questionId": "PHARMA-ANTIMICROBIALS-002",
+      "questionText": "A patient receiving isoniazid develops peripheral neuropathy. Which supplement prevents this adverse effect?",
+      "optionA": "Folic acid",
+      "optionB": "Biotin",
+      "optionC": "Pyridoxine",
+      "optionD": "Niacin",
+      "correctAnswer": "C",
+      "explanation": "Isoniazid increases pyridoxine deficiency by forming complexes with pyridoxal phosphate, predisposing to peripheral neuropathy. Pyridoxine supplementation prevents this. Folic acid is associated with methotrexate toxicity rescue patterns, not INH neuropathy. Biotin and niacin are unrelated here.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "INHPyridoxine",
+      "subtopic": "Antitubercular drugs",
+      "source": "Tripathi, Chemotherapy",
+      "previousYear": true,
+      "tags": "Pharmacology,Antimicrobials,Adverse Effects,Clinical Correlation"
+    },
+    {
+      "questionId": "PHARMA-ANTIMICROBIALS-003",
+      "questionText": "Which antibiotic combination is specifically used to extend activity of amoxicillin by inhibiting bacterial beta-lactamase?",
+      "optionA": "Amoxicillin with clavulanate",
+      "optionB": "Amoxicillin with linezolid",
+      "optionC": "Amoxicillin with azithromycin",
+      "optionD": "Amoxicillin with vancomycin",
+      "correctAnswer": "A",
+      "explanation": "Clavulanate is a beta-lactamase inhibitor that protects amoxicillin from enzymatic destruction and expands coverage against beta-lactamase-producing organisms. Linezolid, azithromycin, and vancomycin have different mechanisms and are not beta-lactamase inhibitors.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "Clavulanate",
+      "subtopic": "Beta-lactamase inhibitors",
+      "source": "Katzung, Beta-lactam Antibiotics",
+      "previousYear": true,
+      "tags": "Pharmacology,Antimicrobials,Drug Combination,Exam Pattern"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "subject": "General Medicine",
+  "chapter": "Respiratory Medicine",
+  "questions": [
+    {
+      "questionId": "MED-RESPIRATORY-001",
+      "questionText": "A patient with acute severe asthma has pulsus paradoxus. This refers to an inspiratory fall in systolic blood pressure greater than:",
+      "optionA": "5 mm Hg",
+      "optionB": "10 mm Hg",
+      "optionC": "20 mm Hg",
+      "optionD": "25 mm Hg",
+      "correctAnswer": "B",
+      "explanation": "Pulsus paradoxus is defined as an inspiratory fall in systolic blood pressure greater than 10 mm Hg and can occur in severe asthma, tamponade, and obstructive airway states. Smaller changes are physiologic. 20 or 25 mm Hg may occur in severe cases but are not the diagnostic threshold.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "PulsusParadoxus",
+      "subtopic": "Asthma and hemodynamic signs",
+      "source": "Harrison\u2019s Principles of Internal Medicine, Asthma",
+      "previousYear": true,
+      "tags": "Medicine,Respiratory Medicine,Clinical Signs,High Yield"
+    },
+    {
+      "questionId": "MED-RESPIRATORY-002",
+      "questionText": "Smoking-related COPD with chronic productive cough for at least 3 months in each of 2 consecutive years is termed:",
+      "optionA": "Bronchiectasis",
+      "optionB": "Chronic bronchitis",
+      "optionC": "Emphysema",
+      "optionD": "Bronchiolitis obliterans",
+      "correctAnswer": "B",
+      "explanation": "Chronic bronchitis is defined clinically by chronic productive cough for at least 3 months in each of 2 consecutive years after excluding other causes. Emphysema is a pathologic diagnosis of alveolar wall destruction. Bronchiectasis involves irreversible bronchial dilation. Bronchiolitis obliterans is a different small airway disease.",
+      "difficulty": "EASY",
+      "conceptTag": "ChronicBronchitis",
+      "subtopic": "COPD definitions",
+      "source": "Davidson\u2019s Principles and Practice of Medicine, COPD",
+      "previousYear": true,
+      "tags": "Medicine,Respiratory Medicine,COPD,High Yield"
+    },
+    {
+      "questionId": "MED-RESPIRATORY-003",
+      "questionText": "Sudden pleuritic chest pain, dyspnea, tachycardia, and elevated D-dimer in a postoperative patient most strongly suggest:",
+      "optionA": "Acute severe asthma",
+      "optionB": "Pulmonary embolism",
+      "optionC": "Tension pneumothorax",
+      "optionD": "ARDS",
+      "correctAnswer": "B",
+      "explanation": "A postoperative patient with acute pleuritic chest pain, dyspnea, tachycardia, and elevated D-dimer is highly suggestive of pulmonary embolism, especially in the setting of venous thromboembolism risk. Acute asthma presents with wheeze. Tension pneumothorax typically causes unilateral absent breath sounds and hemodynamic compromise. ARDS is usually diffuse hypoxemic respiratory failure with bilateral infiltrates.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "PE",
+      "subtopic": "Venous thromboembolism",
+      "source": "Harrison, Pulmonary Embolism",
+      "previousYear": true,
+      "tags": "Medicine,Respiratory Medicine,Clinical Integration,Emergency"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "subject": "General Medicine",
+  "chapter": "Cardiology",
+  "questions": [
+    {
+      "questionId": "MED-CARDIOLOGY-001",
+      "questionText": "A patient with crushing retrosternal chest pain has ST elevation in leads II, III, and aVF. The infarct location is:",
+      "optionA": "Anterior wall",
+      "optionB": "Lateral wall",
+      "optionC": "Inferior wall",
+      "optionD": "Septal wall",
+      "correctAnswer": "C",
+      "explanation": "ST elevation in leads II, III, and aVF localizes an inferior wall myocardial infarction, usually involving the right coronary artery. Anterior wall MI produces changes in V1-V4. Lateral wall MI affects I, aVL, V5, V6. Septal involvement is mainly V1-V2.",
+      "difficulty": "EASY",
+      "conceptTag": "InferiorMI",
+      "subtopic": "ECG localization of MI",
+      "source": "Harrison\u2019s Principles of Internal Medicine, Ischemic Heart Disease",
+      "previousYear": true,
+      "tags": "Medicine,Cardiology,ECG,High Yield"
+    },
+    {
+      "questionId": "MED-CARDIOLOGY-002",
+      "questionText": "The most important immediate investigation to confirm suspected infective endocarditis after blood cultures is:",
+      "optionA": "Chest X-ray",
+      "optionB": "Echocardiography",
+      "optionC": "Cardiac enzymes",
+      "optionD": "Holter monitoring",
+      "correctAnswer": "B",
+      "explanation": "Echocardiography, especially transesophageal in many cases, is crucial for demonstrating vegetations, abscess, or valvular dysfunction in infective endocarditis after blood cultures are obtained. Chest X-ray is nonspecific. Cardiac enzymes are for myocardial injury. Holter monitoring is not diagnostic for endocarditis.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "EndocarditisEcho",
+      "subtopic": "Valvular infection",
+      "source": "Davidson\u2019s Principles and Practice of Medicine, Infective Endocarditis",
+      "previousYear": true,
+      "tags": "Medicine,Cardiology,Infective Endocarditis,Clinical Integration"
+    },
+    {
+      "questionId": "MED-CARDIOLOGY-003",
+      "questionText": "A collapsing pulse is classically associated with:",
+      "optionA": "Mitral stenosis",
+      "optionB": "Aortic regurgitation",
+      "optionC": "Cardiac tamponade",
+      "optionD": "Constrictive pericarditis",
+      "correctAnswer": "B",
+      "explanation": "Aortic regurgitation produces a high-volume collapsing or water-hammer pulse due to rapid runoff of blood back into the ventricle during diastole. Mitral stenosis typically gives a low-volume pulse. Tamponade causes pulsus paradoxus. Constrictive pericarditis does not cause a classic collapsing pulse.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "CollapsingPulse",
+      "subtopic": "Valvular heart disease",
+      "source": "Harrison, Valvular Heart Disease",
+      "previousYear": true,
+      "tags": "Medicine,Cardiology,Clinical Signs,Exam Pattern"
+    }
+  ]
+}

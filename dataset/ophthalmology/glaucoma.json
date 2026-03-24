@@ -1,0 +1,54 @@
+{
+  "subject": "Ophthalmology",
+  "chapter": "Glaucoma",
+  "questions": [
+    {
+      "questionId": "OPHTHAL-GLAUCOMA-001",
+      "questionText": "The most common risk factor for primary open-angle glaucoma is:",
+      "optionA": "Younger age",
+      "optionB": "Raised intraocular pressure",
+      "optionC": "Hyperopia in every patient",
+      "optionD": "Corneal ulcer",
+      "correctAnswer": "B",
+      "explanation": "Raised intraocular pressure is the major modifiable risk factor for primary open-angle glaucoma, although not all patients have markedly elevated pressure. Younger age is not a risk factor. Hyperopia is more associated with angle-closure glaucoma. Corneal ulcer is unrelated.",
+      "difficulty": "EASY",
+      "conceptTag": "POAGRisk",
+      "subtopic": "Primary open-angle glaucoma",
+      "source": "Khurana Comprehensive Ophthalmology, Glaucoma",
+      "previousYear": true,
+      "tags": "Ophthalmology,Glaucoma,Risk Factors,High Yield"
+    },
+    {
+      "questionId": "OPHTHAL-GLAUCOMA-002",
+      "questionText": "Halos around lights with severe ocular pain and mid-dilated fixed pupil suggest:",
+      "optionA": "Acute angle-closure glaucoma",
+      "optionB": "Central retinal artery occlusion",
+      "optionC": "Anterior uveitis",
+      "optionD": "Open-angle glaucoma",
+      "correctAnswer": "A",
+      "explanation": "Acute angle-closure glaucoma presents with sudden painful red eye, halos, corneal edema, and a mid-dilated fixed pupil. CRAO presents with sudden painless vision loss. Uveitis causes ciliary congestion and small irregular pupil. Open-angle glaucoma is usually chronic and asymptomatic early on.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "AACGPresentation",
+      "subtopic": "Angle closure glaucoma",
+      "source": "Khurana, Glaucoma Emergencies",
+      "previousYear": true,
+      "tags": "Ophthalmology,Glaucoma,Emergency,Clinical Integration"
+    },
+    {
+      "questionId": "OPHTHAL-GLAUCOMA-003",
+      "questionText": "The initial drug commonly used to rapidly reduce intraocular pressure in acute angle closure is:",
+      "optionA": "Atropine",
+      "optionB": "Acetazolamide",
+      "optionC": "Tropicamide",
+      "optionD": "Pilocarpine as sole first step before pressure reduction",
+      "correctAnswer": "B",
+      "explanation": "Acetazolamide is commonly used early to reduce aqueous humor formation and lower pressure in acute angle closure. Atropine and tropicamide worsen angle closure by causing mydriasis. Pilocarpine is used after some pressure reduction because an ischemic iris may initially respond poorly. This sequencing is a common exam trap.",
+      "difficulty": "HARD",
+      "conceptTag": "AACGTreatment",
+      "subtopic": "Management of acute glaucoma",
+      "source": "Parsons\u2019 Diseases of the Eye, Glaucoma",
+      "previousYear": true,
+      "tags": "Ophthalmology,Glaucoma,Treatment,Exam Pattern"
+    }
+  ]
+}

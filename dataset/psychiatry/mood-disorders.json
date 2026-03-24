@@ -1,0 +1,54 @@
+{
+  "subject": "Psychiatry",
+  "chapter": "Mood Disorders",
+  "questions": [
+    {
+      "questionId": "PSYCH-MOOD-001",
+      "questionText": "A patient with elevated mood, decreased need for sleep, grandiosity, and marked functional impairment most likely has:",
+      "optionA": "Hypomania",
+      "optionB": "Cyclothymia",
+      "optionC": "Mania",
+      "optionD": "Dysthymia",
+      "correctAnswer": "C",
+      "explanation": "Mania causes elevated or irritable mood with increased energy and significant impairment, often with grandiosity and decreased need for sleep. Hypomania is similar but without marked functional impairment or psychosis. Cyclothymia is chronic fluctuating subthreshold mood disturbance. Dysthymia is persistent depressive disorder.",
+      "difficulty": "EASY",
+      "conceptTag": "ManiaDiagnosis",
+      "subtopic": "Bipolar disorders",
+      "source": "Kaplan and Sadock\u2019s Synopsis of Psychiatry, Mood Disorders",
+      "previousYear": true,
+      "tags": "Psychiatry,Mood Disorders,Diagnosis,High Yield"
+    },
+    {
+      "questionId": "PSYCH-MOOD-002",
+      "questionText": "Lithium toxicity is more likely to occur when combined with:",
+      "optionA": "Thiazide diuretics",
+      "optionB": "Proton pump inhibitors",
+      "optionC": "Macrolides only",
+      "optionD": "Vitamin B12",
+      "correctAnswer": "A",
+      "explanation": "Thiazides reduce lithium clearance and can precipitate toxicity. PPIs and vitamin B12 are not typical major interactions. Some NSAIDs and ACE inhibitors also increase lithium levels, but among the given options thiazides are classic. This is a frequently tested interaction.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "LithiumInteraction",
+      "subtopic": "Mood stabilizer pharmacology",
+      "source": "Kaplan and Sadock; Katzung, Lithium",
+      "previousYear": true,
+      "tags": "Psychiatry,Mood Disorders,Drug Interaction,High Yield"
+    },
+    {
+      "questionId": "PSYCH-MOOD-003",
+      "questionText": "The antidepressant with the highest risk of hypertensive crisis when combined with tyramine-rich food is:",
+      "optionA": "Sertraline",
+      "optionB": "Amitriptyline",
+      "optionC": "Phenelzine",
+      "optionD": "Bupropion",
+      "correctAnswer": "C",
+      "explanation": "Phenelzine is an MAOI; inhibition of monoamine oxidase allows tyramine accumulation leading to hypertensive crisis. Sertraline is an SSRI. Amitriptyline is a TCA. Bupropion is a norepinephrine-dopamine reuptake inhibitor. The food interaction is a classic MAOI question.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "MAOITyramine",
+      "subtopic": "Antidepressants",
+      "source": "Kaplan and Sadock\u2019s Synopsis of Psychiatry, Psychopharmacology",
+      "previousYear": true,
+      "tags": "Psychiatry,Mood Disorders,Psychopharmacology,Exam Pattern"
+    }
+  ]
+}

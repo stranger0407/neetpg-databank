@@ -1,0 +1,54 @@
+{
+  "subject": "Anatomy",
+  "chapter": "Thorax",
+  "questions": [
+    {
+      "questionId": "ANATOMY-THORAX-001",
+      "questionText": "The surface marking of the sternal angle corresponds to which important anatomical level?",
+      "optionA": "Bifurcation of trachea and beginning of aortic arch",
+      "optionB": "Termination of superior vena cava and opening of azygos vein",
+      "optionC": "Crossing of thoracic duct from right to left",
+      "optionD": "Entrance of inferior vena cava into right atrium",
+      "correctAnswer": "A",
+      "explanation": "The sternal angle lies opposite the T4-T5 intervertebral disc and marks the plane of tracheal bifurcation and the beginning/end of the aortic arch. The azygos arch also joins the SVC around this level, but the specific pairing in option A is the classic marker. Thoracic duct crossing occurs lower, around T5, but not as the standard surface landmark tested. IVC entry is much lower near T8.",
+      "difficulty": "MEDIUM",
+      "conceptTag": "SternalAngle",
+      "subtopic": "Surface anatomy of thorax",
+      "source": "Gray\u2019s Anatomy, Thorax",
+      "previousYear": true,
+      "tags": "Anatomy,Thorax,Surface Anatomy,High Yield"
+    },
+    {
+      "questionId": "ANATOMY-THORAX-002",
+      "questionText": "During pericardiocentesis through the left 5th intercostal space close to the sternum, which structure is most important to avoid?",
+      "optionA": "Long thoracic nerve",
+      "optionB": "Internal thoracic artery",
+      "optionC": "Thoracodorsal nerve",
+      "optionD": "Azygos vein",
+      "correctAnswer": "B",
+      "explanation": "Parasternal pericardiocentesis risks injury to the internal thoracic artery, which runs just lateral to the sternum. Long thoracic and thoracodorsal nerves are in the axillary region. The azygos vein is posterior in the thorax and is not the main structure at risk with this approach. This is a classic applied anatomy question.",
+      "difficulty": "HARD",
+      "conceptTag": "Pericardiocentesis",
+      "subtopic": "Pericardium and mediastinum",
+      "source": "BD Chaurasia, Thorax",
+      "previousYear": false,
+      "tags": "Anatomy,Thorax,Procedural Anatomy,Clinical Integration"
+    },
+    {
+      "questionId": "ANATOMY-THORAX-003",
+      "questionText": "Pain from the fibrous pericardium is primarily carried by which nerve?",
+      "optionA": "Vagus nerve",
+      "optionB": "Sympathetic cardiac nerves",
+      "optionC": "Phrenic nerve",
+      "optionD": "Intercostal nerves",
+      "correctAnswer": "C",
+      "explanation": "Fibrous pericardium and parietal layer of serous pericardium receive somatic sensory fibers via the phrenic nerve, so pericardial pain may be referred to the shoulder. The vagus carries parasympathetic fibers. Sympathetic fibers mediate visceral afferents from the heart, not the pain-sensitive parietal pericardium. Intercostal nerves supply the costal pleura and thoracic wall.",
+      "difficulty": "EASY",
+      "conceptTag": "PericardialInnervation",
+      "subtopic": "Pericardium",
+      "source": "Snell Clinical Anatomy, Thorax",
+      "previousYear": true,
+      "tags": "Anatomy,Thorax,Pericardium,High Yield"
+    }
+  ]
+}
